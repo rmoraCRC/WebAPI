@@ -1,0 +1,1420 @@
+2017-03-06 10:09:52.8104|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:09:57.4827|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:10:01.6921|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-06 10:10:01.6921|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : The operation was canceled.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-06 10:10:01.8412|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-06 10:10:01.8472|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : The operation was canceled.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-06 10:10:32.0697|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:11:06.2855|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:11:08.1648|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:11:09.5775|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 10:11:11.0745|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:11:11.9859|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:11:13.3919|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:11:14.3889|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/34
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":34}]}
+
+2017-03-06 10:11:22.5220|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:16:06.9308|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:16:22.4896|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:17:34.8758|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:17:46.9998|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:21:08.5737|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:21:14.2972|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:22:42.9533|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:26:40.2276|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:29:35.6823|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:29:38.6946|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:29:39.8213|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:29:40.7184|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:29:41.5238|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:29:44.0543|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:32:57.3537|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:34:52.7590|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-06 10:36:01.2733|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:36:02.3455|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:36:04.4254|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:36:50.9122|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:40:47.0253|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:43:13.8709|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:43:22.9271|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:43:23.7827|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:43:25.9971|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:45:30.6249|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 10:45:36.4035|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:33:57.3937|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:42:06.1136|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:42:08.2297|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:58:42.6177|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:58:43.6420|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:58:44.7958|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:58:45.6355|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:58:46.8704|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:58:48.6398|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 12:59:46.2804|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:00:29.2061|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:01:30.0437|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:01:33.0448|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:01:33.8413|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:01:34.4053|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:01:49.0868|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:02:52.3101|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:02:57.3574|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:02:58.1631|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:02:58.6906|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:02:59.1854|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:03:09.5915|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:03:18.6362|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:07:17.8283|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:07:19.5934|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:17:40.7112|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:17:46.7058|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:20:11.3725|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:20:14.5446|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:44:22.9879|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:45:38.4108|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:06.6479|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:25.9710|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:28.8007|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:29.4043|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:30.9167|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:32.1171|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:33.2051|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:36.9395|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:46:39.0853|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:56:32.4072|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:57:33.8819|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 13:58:02.0786|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:11.7308|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:15.8749|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:18.9080|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:19.9067|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:20.8507|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:23.7073|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:39.7768|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:41.7412|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:42.8508|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:43.5832|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:12:44.2909|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:13:45.8930|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:13:46.9503|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:13:47.9693|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:14:23.2625|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:14:25.3509|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:14:26.1824|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:14:27.3602|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 15:14:32.3804|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:43:09.9507|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:43:16.7845|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:43:16.7975|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:43:23.7749|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:43:26.5210|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:43:38.0753|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:43:42.5203|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:44:35.6085|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:44:37.3487|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:44:40.1210|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:44:41.0198|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:44:41.7221|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:44:42.6107|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:44:43.2706|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:44:44.5444|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:45:00.4054|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:45:01.5324|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:45:08.1217|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:48:52.3445|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 16:49:05.8447|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:08:13.4779|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:08:21.0034|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:08:55.4785|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:09:07.9949|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:09:50.5281|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:09:51.7927|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:09:52.9440|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:09:54.1716|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:09:55.2505|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:09:58.7053|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:09:59.5791|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:10:03.8644|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:10:07.0578|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:12:27.0375|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:12:28.3589|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:12:30.9021|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:13:56.6737|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:14:05.8680|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:14:39.8332|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:14:59.4323|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:16:04.5925|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:17:36.6772|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:18:50.0263|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:19:37.6500|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:22:32.0741|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:23:33.3938|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:24:31.0246|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:25:02.7043|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:25:04.3498|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:25:34.8407|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 17:25:36.3172|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:16:36.6986|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:16:40.3979|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:16:51.0342|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 20:16:52.8590|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 20:16:54.4198|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:16:57.2530|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:16:58.5156|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 20:16:59.8616|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 20:17:02.7269|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:17:04.7167|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 20:17:05.6896|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:17:07.0875|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 20:17:08.3346|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:17:09.4917|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 20:17:21.7287|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:17:52.6048|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-06 20:20:17.4347|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:21:13.7967|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:22:01.8002|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:23:32.4723|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:23:40.6046|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:23:49.1316|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-06 20:26:05.2733|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+

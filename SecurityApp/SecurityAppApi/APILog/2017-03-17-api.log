@@ -1,0 +1,2128 @@
+2017-03-17 08:12:12.2766|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 08:18:11.4567|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 08:34:06.0894|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 08:38:27.2673|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 08:41:44.5062|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 08:45:09.8888|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 08:54:15.0908|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 09:11:50.6533|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 09:25:13.9677|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 09:44:40.4860|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 10:00:40.5511|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 10:05:06.1213|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 10:09:27.0811|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 10:10:16.6139|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 10:17:39.3663|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 10:21:10.5737|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 10:36:03.4474|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 10:54:51.3501|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:00:45.5387|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:03:03.4471|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:18:40.5396|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:27:11.0599|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:29:13.2498|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-17 11:29:48.5712|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-17 11:43:26.0021|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:44:59.7593|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:45:29.8664|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:46:04.7994|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:47:27.2373|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:49:30.7450|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:52:57.3689|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:53:54.4528|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:55:55.0936|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:56:15.6030|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:56:55.3327|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:57:42.1460|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:58:23.3589|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 11:58:56.6076|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 12:06:26.7722|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 12:07:44.2687|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 12:08:12.0336|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 12:08:44.8003|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 12:39:48.8336|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:20:19.7898|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:21:26.8583|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:28:40.1619|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":false,"UserName":"111","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":null}}]}
+
+2017-03-17 14:28:49.2504|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:28:54.0805|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 14:29:00.1414|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":true,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:29:00.8311|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:29:01.0204|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:29:34.1638|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":true,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:29:34.3146|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:29:34.3366|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:29:41.2872|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:30:37.4768|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 14:30:43.3233|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":true,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:30:43.4172|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:30:43.4337|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:31:14.7702|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:31:42.2665|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 14:31:45.0137|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":false,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:31:45.1171|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:31:45.1631|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:32:58.8969|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:33:00.5631|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 14:33:05.2163|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":false,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:33:05.3436|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:33:05.3686|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:33:50.2531|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:33:56.7353|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 14:34:00.1306|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":false,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:34:00.2528|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:34:00.2678|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:34:11.6018|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":false,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:34:11.6767|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:34:11.6988|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:34:15.5971|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":false,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:34:15.7899|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:34:15.8310|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:34:18.8213|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":false,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 14:34:19.0499|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 14:34:19.1230|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 14:34:45.7404|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:34:59.5750|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 14:35:04.0911|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-17 14:35:06.8401|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":31}]}
+
+2017-03-17 14:35:08.7649|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 15:30:57.2554|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 15:51:29.5135|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 15:51:49.7827|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 15:51:53.2752|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":43,"Name":"pppp","LastName":"ppp","Address":"pppp","Email":"ppp@oppp.com","Phone":"111232131","Status":false,"UserName":"rmora","Password":"12222","CreateDateTime":"\/Date(-62135575200000)\/","Roles":[]}}]}
+
+2017-03-17 15:51:53.9309|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-17 15:51:53.9567|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 15:51:59.6348|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-17 15:52:06.9286|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 15:54:12.3137|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 15:56:13.5200|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 15:58:35.9967|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 15:59:38.6149|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:02:26.8925|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:04:58.2550|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:16:28.3556|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 16:18:52.3276|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:19:28.9206|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:20:28.7618|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/43
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":43}]}
+
+2017-03-17 16:24:40.7967|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:26:35.1999|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:27:07.8709|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:27:55.9230|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Delete
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-17 16:28:01.0661|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:03.0431|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:04.0351|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:05.0381|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:06.0380|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:06.2081|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Delete
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-17 16:28:06.5875|ERROR|SecurityAppApi.Helpers.NLogger|Method: DELETE
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Delete
+Action Parameters : 
+
+2017-03-17 16:28:06.6055|ERROR|SecurityAppApi.Helpers.NLogger|Method: DELETE
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Cannot delete or update a parent row: a foreign key constraint fails (`securityapp`.`tokens`, CONSTRAINT `fk_userId` FOREIGN KEY (`IdUser`) REFERENCES `users` (`IdUser`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 16:28:07.0444|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:08.0398|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:09.0395|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:10.0415|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:11.0434|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:12.0430|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:13.0518|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:14.0449|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:15.0467|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:16.0466|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:17.0473|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:18.0493|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:19.0536|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:20.0505|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:21.0513|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:22.0511|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:23.0530|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:24.0598|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:25.0558|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:26.0568|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:27.0589|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:28.0597|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:29.0654|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:30.0612|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:31.0622|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:32.0690|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:33.0634|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:34.0643|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:35.0751|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:36.0661|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:37.0667|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:38.0696|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:39.0674|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:40.0699|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:41.0739|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:42.0705|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:43.0705|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:44.0723|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:44.2539|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-17 16:28:45.0721|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:46.0731|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:47.0855|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:48.0753|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:49.0752|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:50.0773|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:51.0767|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:52.0784|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:53.0879|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:54.0791|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:55.0829|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:56.0821|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:57.0819|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:58.0828|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:28:59.0873|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:00.0843|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:01.0883|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:02.0852|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:03.0857|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:04.0875|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:05.0914|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:05.8627|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"jjjsdjas","LastName":"1212","Address":"12","Email":"rmo777@gmail.com","Phone":"334343434","Status":true,"UserName":"dddd","Password":"ddddd","CreateDateTime":"\/Date(-62135575200000)\/","Roles":null}}]}
+
+2017-03-17 16:29:06.0218|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-17 16:29:06.0308|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo777@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-17 16:29:06.0894|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:07.0933|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:08.0899|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:09.0913|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:10.0976|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:11.0919|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:11.8727|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"jjjsdjas","LastName":"1212","Address":"12","Email":"rmosadasd@gmail.com","Phone":"334343434","Status":true,"UserName":"dddd","Password":"ddddd","CreateDateTime":"\/Date(-62135575200000)\/","Roles":null}}]}
+
+2017-03-17 16:29:12.0949|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:13.0938|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:14.0945|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:15.0973|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:16.1012|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:17.0970|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:18.0976|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:19.0988|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:20.0999|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:21.1039|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:22.1069|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:23.1027|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:24.1034|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:25.1044|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:26.1052|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:28.0180|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:29.0168|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:31.0155|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:33.0154|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:35.0218|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:37.0165|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:39.0162|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:41.0220|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:43.0167|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:45.0236|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:47.0262|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:49.0168|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:51.0207|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:53.0225|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:55.0150|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:56.0238|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:29:58.0161|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:00.0200|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:02.0177|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:04.0187|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:06.0207|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:08.0165|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:10.0168|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:12.0224|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:14.0150|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:15.0492|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:17.0169|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:19.0261|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:21.0153|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:23.0176|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:25.0236|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:27.0169|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:29.0166|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:31.0219|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:32.0172|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:35.1529|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:36.6862|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:30:52.9301|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"assssss","LastName":"ssss","Address":"asdasd","Email":"334@gmail.com","Phone":"232334","Status":true,"UserName":"sdfsdf","Password":"sdfsdf","CreateDateTime":"\/Date(-62135575200000)\/","Roles":null}}]}
+
+2017-03-17 16:30:58.0189|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:31:02.0757|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Delete
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-17 16:31:02.1886|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-17 16:31:08.5057|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

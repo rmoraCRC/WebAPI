@@ -1,0 +1,278 @@
+2017-02-27 09:18:41.4966|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 09:19:00.7127|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 09:19:23.0162|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 09:19:29.7946|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 09:23:14.0387|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 09:24:19.3011|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 09:32:23.7915|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 09:32:52.8725|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 09:34:24.5802|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 09:35:11.8965|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 09:38:38.6750|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 09:39:16.5539|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 09:40:19.9067|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 09:42:06.0702|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 09:45:17.4094|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 09:46:20.9585|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 09:59:44.7114|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:00:28.0292|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:00:47.6400|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:03:09.9333|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:03:12.8145|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 10:03:17.5679|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:03:17.6040|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 10:03:19.9974|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:03:20.0184|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 10:04:36.1673|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:05:32.9092|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 10:22:15.9614|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:23:50.2869|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 10:29:39.1179|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 10:30:47.5187|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-02-27 13:12:00.8280|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User/200
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":200}]}
+
+2017-02-27 13:12:19.9910|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User/200
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 13:12:35.5968|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User/200
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":200}]}
+
+2017-02-27 13:14:09.6711|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User/200
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 13:15:52.7565|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User/200
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":200}]}
+
+2017-02-27 13:20:23.0059|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User/200
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":200}]}
+
+2017-02-27 13:28:49.5366|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User/200
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":200}]}
+
+2017-02-27 13:28:50.2656|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/api/User/200
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-02-27 13:47:50.7018|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/find/1
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2017-02-27 13:48:37.5284|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/FindUser/1
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2017-02-27 13:49:27.4237|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/FindUser/1
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+

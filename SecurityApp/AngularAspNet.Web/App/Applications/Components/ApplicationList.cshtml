@@ -1,0 +1,32 @@
+﻿<h1>Applications List</h1>   
+<div>
+    <h1 class="page-header">
+        Applications
+        <a class="pull-right" href="" ng-click="$ctrl.add()"><i class="glyphicon glyphicon-plus-sign"></i></a>
+    </h1>
+    <table class="table table-bordered">
+        <tr>
+            <th>
+                Action
+            </th>
+            <th>Application Id</th>
+            <th>Name</th>
+            <th>Creation Date</th>
+            <th>Status</th>
+        </tr>
+        <tr ng-repeat="application in $ctrl.applications">
+            <td>
+                <button type="button" ng-click="$ctrl.edit(application.idApplication)">
+                    <span class="glyphicon glyphicon-pencil"></span>
+                </button>
+            </td>
+            <td>{{application.idApplication}}</td>
+            <td>{{application.description}}</td>
+            <td>{{application.createDateTime}}</td>
+            <td>{{application.status}}</td>
+        </tr>
+    </table>
+
+</div>
+
+

@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Applications";
+}
+<div ng-non-bindable>
+    <div id="applications">
+        <ng-view></ng-view>
+    </div>
+</div>
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/scripts/applications")
+    <script type="text/javascript">
+        angular.bootstrap(document.getElementById("applications"), ['applications']);
+    </script>
+}

@@ -1,0 +1,289 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* Customer List */
+.customer-list .panel-heading {
+    font-size: 1.4em;
+}
+
+    .customer-list .panel-heading .btn {
+        margin-top: -5px;
+    }
+
+.customer-list th {
+    width: 100px;
+}
+
+.customer-list table {
+    font-size: 1em;
+}
+
+.customer-list .panel > .table + .panel-body {
+    border-top: none;
+}
+
+#loading-bar .bar {
+    background: #2c3e50;
+}
+
+#loading-bar-spinner .spinner-icon {
+    border-top-color: #2c3e50;
+    border-left-color: #2c3e50;
+}
+
+#loading-bar .peg {
+    -moz-box-shadow: #2c3e50 1px 0 6px 1px;
+    -ms-box-shadow: #2c3e50 1px 0 6px 1px;
+    -webkit-box-shadow: #2c3e50 1px 0 6px 1px;
+    box-shadow: #2c3e50 1px 0 6px 1px;
+}
+
+input[type="checkbox"] {
+    width: 15px; /*Desired width*/
+    height: 15px; /*Desired height*/
+}
+
+.info p {
+    text-align: center;
+    color: #999;
+    text-transform: none;
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 2px;
+}
+
+.info i {
+    color: #F6AA93;
+}
+
+form h1 {
+    font-size: 25px;
+    background: #008b8b none repeat scroll 0% 0%;
+    color: rgb(255, 255, 255);
+    padding: 22px 25px;
+    border-radius: 5px 5px 0px 0px;
+    margin: 0px 5px 0px 5px;
+    text-shadow: none;
+    text-align: left;
+}
+
+form {
+    border-radius: 5px;
+    max-width: 700px;
+    width: 100%;
+    margin: 5% auto;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+p span {
+    color: #F00;
+}
+
+p {
+    margin: 0px;
+    font-weight: 500;
+    line-height: 2;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: #666;
+    text-shadow: 2px 2px 0px #FFF;
+    margin: 50px 0px 0px 0px;
+    vertical-align: middle;
+}
+
+input {
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid #eee;
+    margin-bottom: 15px;
+    width: 75%;
+    height: 40px;
+    float: left;
+    padding: 0px 15px;
+}
+
+a {
+    text-decoration: inherit;
+}
+
+textarea {
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid #EEE;
+    margin: 0;
+    width: 75%;
+    height: 130px;
+    float: left;
+    padding: 0px 15px;
+}
+
+.form-group {
+    overflow: hidden;
+    clear: both;
+}
+
+.contentform {
+    padding: 40px 30px;
+}
+
+.button-contaniner {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.button-form-left {
+    background-color: #81BDA4;
+    color: #FFF;
+    text-align: center;
+    width: 50%;
+    float: left;
+    border: 0;
+    padding: 17px 25px;
+    border-radius: 0px 0px 0px 5px;
+    cursor: pointer;
+    margin: 40px 0px 0px 0px;
+    font-size: 18px;
+}
+
+    .button-form-left:hover {
+        background-color: #CCC;
+    }
+
+
+.button-form-right {
+    background-color: #81BDA4;
+    color: #FFF;
+    text-align: center;
+    width: 50%;
+    float: right;
+    border: 0;
+    padding: 17px 25px;
+    border-radius: 0px 0px 5px 0px;
+    cursor: pointer;
+    margin: 40px 0px 0px 0px;
+    font-size: 18px;
+}
+
+    .button-form-right:hover {
+        background-color: #CCC;
+    }
+
+.leftform {
+    width: 49.5%;
+    float: left;
+    border-right: 1px dotted #CCC;
+    box-sizing: border-box;
+    padding: 0px 15px 0px 0px;
+}
+
+.rightform {
+    width: 49.5%;
+    float: right;
+    box-sizing: border-box;
+    padding: 0px 0px 0px 15px;
+}
+
+.validation {
+    display: none;
+    margin: 0 0 10px;
+    font-weight: 400;
+    font-size: 8px;
+    color: #DE5959;
+}
+
+#sendmessage {
+    border: 1px solid #fff;
+    display: none;
+    text-align: center;
+    margin: 10px 0;
+    font-weight: 600;
+    margin-bottom: 30px;
+    background-color: #EBF6E0;
+    color: #5F9025;
+    border: 1px solid #B3DC82;
+    padding: 13px 40px 13px 18px;
+    border-radius: 3px;
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.03);
+}
+
+    #sendmessage.show, .show {
+        display: block;
+    }
+
+/* The switch - the box around the slider */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 24px;
+}
+
+    /* Hide default HTML checkbox */
+    .switch input {
+        display: none;
+    }
+
+/* The slider */
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 17px;
+        width: 17px;
+        left: 4px;
+        bottom: 4px;
+        background-color: white;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+
+input:checked + .slider {
+    background-color: #2196F3;
+}
+
+input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(34px);
+    -ms-transform: translateX(34px);
+    transform: translateX(34px);
+}
+
+/* Rounded sliders */
+.slider.round {
+    border-radius: 24px;
+}
+
+    .slider.round:before {
+        border-radius: 50%;
+    }

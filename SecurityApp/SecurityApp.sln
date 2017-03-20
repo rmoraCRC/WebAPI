@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityAppDataAccess", "SecurityAppDataAccess\SecurityAppDataAccess.csproj", "{828F5895-8E32-47CF-89E2-58C805A03CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityAppBusiness", "SecurityAppBusiness\SecurityAppBusiness.csproj", "{6208CDE2-7760-49AB-BD0B-B2C629AD061A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityAppUnitTest", "SecurityAppUnitTest\SecurityAppUnitTest.csproj", "{5D28F107-C8DC-4E39-A8BD-656825C04FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityAppApi", "SecurityAppApi\SecurityAppApi.csproj", "{4ECC6420-2E17-439C-97C5-A6C73B721AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityAppApi.Tests", "SecurityAppApi.Tests\SecurityAppApi.Tests.csproj", "{39C432F8-2721-474C-A6F5-92500A604EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomException", "SecurityAppCustomException\CustomException.csproj", "{15CC5696-FF5A-4F7B-B889-A9702B3E8E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecurityApp.Web", "AngularAspNet.Web\SecurityApp.Web.csproj", "{12AE9E8B-B714-4917-A8E3-2C34CEE13A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828F5895-8E32-47CF-89E2-58C805A03CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828F5895-8E32-47CF-89E2-58C805A03CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828F5895-8E32-47CF-89E2-58C805A03CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828F5895-8E32-47CF-89E2-58C805A03CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6208CDE2-7760-49AB-BD0B-B2C629AD061A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6208CDE2-7760-49AB-BD0B-B2C629AD061A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6208CDE2-7760-49AB-BD0B-B2C629AD061A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6208CDE2-7760-49AB-BD0B-B2C629AD061A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D28F107-C8DC-4E39-A8BD-656825C04FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D28F107-C8DC-4E39-A8BD-656825C04FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D28F107-C8DC-4E39-A8BD-656825C04FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D28F107-C8DC-4E39-A8BD-656825C04FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECC6420-2E17-439C-97C5-A6C73B721AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECC6420-2E17-439C-97C5-A6C73B721AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECC6420-2E17-439C-97C5-A6C73B721AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECC6420-2E17-439C-97C5-A6C73B721AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C432F8-2721-474C-A6F5-92500A604EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C432F8-2721-474C-A6F5-92500A604EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C432F8-2721-474C-A6F5-92500A604EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C432F8-2721-474C-A6F5-92500A604EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15CC5696-FF5A-4F7B-B889-A9702B3E8E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CC5696-FF5A-4F7B-B889-A9702B3E8E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CC5696-FF5A-4F7B-B889-A9702B3E8E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CC5696-FF5A-4F7B-B889-A9702B3E8E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12AE9E8B-B714-4917-A8E3-2C34CEE13A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AE9E8B-B714-4917-A8E3-2C34CEE13A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AE9E8B-B714-4917-A8E3-2C34CEE13A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AE9E8B-B714-4917-A8E3-2C34CEE13A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

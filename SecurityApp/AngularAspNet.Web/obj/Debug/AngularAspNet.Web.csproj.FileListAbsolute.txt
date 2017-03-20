@@ -1,0 +1,181 @@
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.csprojResolveAssemblyReference.cache
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\csc.exe
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\vbc.exe
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\VBCSCompiler.exe
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.dll.config
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.pdb
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Antlr3.Runtime.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Newtonsoft.Json.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Net.Http.Formatting.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Helpers.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.WebHost.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Mvc.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Optimization.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Razor.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Deployment.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Razor.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\WebGrease.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Antlr3.Runtime.pdb
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Optimization.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Razor.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Deployment.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Razor.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Helpers.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Mvc.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Newtonsoft.Json.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Net.Http.Formatting.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.WebHost.xml
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.dll
+C:\DevelopmentArchive\AngularAspNet\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.pdb
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\csc.exe
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\vbc.exe
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\VBCSCompiler.exe
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.dll.config
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.pdb
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Antlr3.Runtime.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Newtonsoft.Json.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Net.Http.Formatting.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Helpers.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.WebHost.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Mvc.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Optimization.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Razor.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Razor.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\WebGrease.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Antlr3.Runtime.pdb
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Optimization.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Razor.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Razor.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Helpers.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Mvc.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\Newtonsoft.Json.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Net.Http.Formatting.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.WebHost.xml
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.csprojResolveAssemblyReference.cache
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.dll
+C:\Developments\AngularAspNet\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.pdb
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\csc.exe
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\vbc.exe
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.dll.config
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\AngularAspNet.Web.pdb
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Antlr3.Runtime.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Newtonsoft.Json.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Helpers.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Mvc.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Optimization.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Razor.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\WebGrease.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Optimization.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Razor.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Helpers.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Mvc.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Newtonsoft.Json.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\obj\Debug\AngularAspNet.Web.pdb
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\HtmlTags.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Humanizer.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Humanizer.pdb
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\Humanizer.xml
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\af\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\ar\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\bg\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\bn-BD\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\cs\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\da\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\de\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\el\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\es\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\fa\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\fi-FI\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\fr\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\fr-BE\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\he\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\hr\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\hu\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\id\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\it\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\ja\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\nb\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\nb-NO\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\nl\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\pl\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\pt\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\ro\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\ru\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\sk\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\sl\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\sr\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\sr-Latn\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\sv\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\tr\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\uk\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\vi\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\zh-CN\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\zh-Hans\Humanizer.resources.dll
+C:\Users\Rafael Mora\Desktop\New folder\AngularAspNet-master\src\Presentation\AngularAspNet.Web\bin\zh-Hant\Humanizer.resources.dll

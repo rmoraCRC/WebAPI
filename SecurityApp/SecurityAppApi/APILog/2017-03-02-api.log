@@ -1,0 +1,676 @@
+2017-03-02 13:40:01.8329|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 13:40:25.9982|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-02 13:40:26.1438|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Error Message : One or more validation errors were detected during model generation:
+
+SecurityAppDataAccess.Model.Token: : EntityType 'Token' has no key defined. Define the key for this EntityType.
+Tokens: EntityType: EntitySet 'Tokens' is based on type 'Token' that has no keys defined.
+
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 13:41:01.1545|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 13:43:19.6241|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-02 13:43:19.6401|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Error Message : One or more validation errors were detected during model generation:
+
+SecurityAppDataAccess.Model.Token: : EntityType 'Token' has no key defined. Define the key for this EntityType.
+Tokens: EntityType: EntitySet 'Tokens' is based on type 'Token' that has no keys defined.
+
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 13:44:36.4872|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 13:54:36.9204|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 13:55:39.2629|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+
+2017-03-02 13:55:39.2939|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'User_IdUser' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-02 13:57:35.5237|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 13:58:03.2771|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+
+2017-03-02 13:58:03.3076|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'IdUser' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-02 13:59:00.9166|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 13:59:58.7116|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+
+2017-03-02 13:59:58.8382|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'User_IdUser' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-02 14:00:05.4310|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 14:01:07.4150|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+
+2017-03-02 14:01:07.4455|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Unknown column 'User_IdUser' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-02 15:09:05.4185|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 15:11:05.7624|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-02 15:11:14.0931|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-02 15:11:14.2328|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/User
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 15:11:21.0831|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 15:13:10.7042|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 15:13:49.9950|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 15:15:03.6572|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:16:07.0117|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:17:15.9317|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:17:51.9815|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:18:03.7192|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:19:26.5942|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:21:11.4866|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:21:39.4446|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:33:39.3486|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 15:39:47.2798|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:41:21.3428|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:44:43.0086|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:45:22.3723|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-02 15:45:22.5009|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Error Message : The context cannot be used while the model is being created. This exception may be thrown if the context is used inside the OnModelCreating method or if the same context instance is accessed by multiple threads concurrently. Note that instance members of DbContext and related classes are not guaranteed to be thread safe.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 15:45:27.8079|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:46:13.2629|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-02 15:46:13.2839|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 15:46:28.7941|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:49:35.2976|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 15:50:34.9515|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:26:35.4414|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 16:26:51.8181|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 16:27:07.9434|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:28:50.9183|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-02 16:28:50.9298|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Error Message : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+IUser -> IUserEntity
+SecurityAppDataAccess.Interface.IUser -> SecurityAppBusiness.Interface.IUserEntity
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 16:29:21.4817|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:29:47.2687|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-02 16:29:47.2687|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Error Message : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+IUser -> IUserEntity
+SecurityAppDataAccess.Interface.IUser -> SecurityAppBusiness.Interface.IUserEntity
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 16:30:35.3306|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:30:50.6499|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff54262
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:30:54.5534|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:34:45.1225|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:36:52.3862|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 4a324460-f4df-46a7-b862-0f28ff542627
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:37:52.1814|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 16:37:52.3990|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : 
+
+2017-03-02 16:37:52.4095|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Error Message : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+IToken -> ITokenEntity
+SecurityAppDataAccess.Interface.IToken -> SecurityAppBusiness.Interface.ITokenEntity
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 16:38:48.0017|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/Authenticate
+Controller : SecurityAppApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 16:39:35.6240|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:40:04.1394|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-02 16:40:04.1504|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+IUser -> IUserEntity
+SecurityAppDataAccess.Interface.IUser -> SecurityAppBusiness.Interface.IUserEntity
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-02 16:42:16.4192|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:42:22.2494|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-02 16:42:35.9736|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 16:43:14.1430|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo772227@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor12a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-02 16:43:46.1345|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo772e227@gmail.com","Phone":"70125373","Status":true,"UserName":"rmoer12a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-02 16:44:06.5738|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-02 16:44:29.1845|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":33,"Name":"Rafael","LastName":"Mora","Address":"Cartaasdasgo123","Email":"rmo772227@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor12a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-02 16:44:29.3239|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-02 16:44:29.3329|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo772227@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-02 16:46:41.8242|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":33,"Name":"Rafael","LastName":"Mora","Address":"Cartaasdasgo123","Email":"rmo772227@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor12a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-02 16:46:54.6329|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":33,"Name":"Rafael","LastName":"Mora","Address":"Cartaasdasgo123","Email":"rmo772227@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor12a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-02 16:47:06.5476|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":33,"Name":"Rafael","LastName":"Mora","Address":"Cartaasdasgo123","Email":"rmo772227@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor12a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-02 16:47:16.9848|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost/SecurityAppApi/api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Delete
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":33,"Name":"Rafael","LastName":"Mora","Address":"Cartaasdasgo123","Email":"rmo772227@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor12a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+

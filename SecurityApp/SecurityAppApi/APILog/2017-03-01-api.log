@@ -1,0 +1,1019 @@
+2017-03-01 09:01:26.9961|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-01 09:01:45.4167|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-01 09:02:18.5845|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-01 09:16:24.9505|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userBusiness":{"Address":"Cartago","CreateDateTime":"\/Date(1486620000000)\/","Roles":[],"Email":"rmo777@gmail.com","IdUser":0,"LastName":"asdasdsa","Name":"Rafael23344444323","Password":"1234","Phone":"7012-5373","Status":true,"UserName":"rmora123"}}]}
+
+2017-03-01 09:17:49.4482|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 09:18:33.6148|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userBusiness":{"Address":"Cartago","CreateDateTime":"\/Date(1486620000000)\/","Roles":[],"Email":"rmo777@gmail.com","IdUser":13,"LastName":"asdasdsa","Name":"Rafael23344444323","Password":"1234","Phone":"7012-5373","Status":true,"UserName":"rmora123"}}]}
+
+2017-03-01 09:19:31.1940|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 09:20:42.7701|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userBusiness":{"Address":"Cartago","CreateDateTime":"\/Date(1486620000000)\/","Roles":[],"Email":"rmo777@gmail.com","IdUser":0,"LastName":"asdasdsa","Name":"Rafael23344444323","Password":"1234","Phone":"7012-5373","Status":true,"UserName":"rmora123"}}]}
+
+2017-03-01 09:21:10.4041|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 09:23:02.4853|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userBusiness":{"Address":"Cartago","CreateDateTime":"\/Date(1486620000000)\/","Roles":[],"Email":"rmo777@gmail.com","IdUser":0,"LastName":"asdasdsa","Name":"Rafael23344444323","Password":"1234","Phone":"7012-5373","Status":true,"UserName":"rmora123"}}]}
+
+2017-03-01 09:23:18.6641|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 09:30:08.8807|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userBusiness":{"Address":"Cartago","CreateDateTime":"\/Date(1486620000000)\/","Roles":[],"Email":"rmo777@gmail.com","IdUser":0,"LastName":"asdasdsa","Name":"Rafael23344444323","Password":"1234","Phone":"7012-5373","Status":true,"UserName":"rmora123"}}]}
+
+2017-03-01 09:34:03.1884|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 09:35:56.5137|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userBusiness":{"Address":"Cartago","CreateDateTime":"\/Date(1486620000000)\/","Roles":[],"Email":"rmo777@gmail.com","IdUser":0,"LastName":"asdasdsa","Name":"Rafael23344444323","Password":"1234","Phone":"7012-5373","Status":true,"UserName":"rmora123"}}]}
+
+2017-03-01 09:36:31.3420|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 09:42:50.3284|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userBusiness":null}]}
+
+2017-03-01 09:42:50.3910|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 10:27:17.9967|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 10:27:59.3335|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 10:29:19.0478|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-01 10:29:55.6077|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 10:30:04.4243|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 10:30:45.3275|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 10:46:46.5398|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 11:28:05.8337|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 11:33:57.2268|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 11:58:09.4993|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 11:58:58.5485|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:02:16.1761|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 12:04:04.5865|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:19:24.4452|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 12:19:43.4265|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:20:05.2341|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo777@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 12:26:04.6097|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 12:26:15.7504|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:26:15.9195|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo777@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 12:27:57.1626|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 12:28:00.8250|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:28:00.8540|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : An error occurred while updating the entries. See the inner exception for details.
+Action Parameters : 
+
+2017-03-01 12:30:46.8906|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 12:31:10.1944|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:31:10.2104|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : An error occurred while updating the entries. See the inner exception for details.
+Action Parameters : 
+
+2017-03-01 12:34:41.6645|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 12:34:42.5570|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:34:42.5775|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo777@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 12:36:22.1392|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 12:36:26.1716|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:36:26.1921|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo777@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 12:36:46.7741|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":13,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmora","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":[]}}]}
+
+2017-03-01 12:36:46.8651|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:36:46.8811|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmora' for key 'UserName_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 12:37:24.5466|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":null,"LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 12:37:24.6349|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:37:24.6509|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Error Property Name Name : Error Message: The Name field is required.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 12:37:55.4788|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 12:38:19.0367|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 12:38:19.1112|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 12:38:19.1112|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo7727@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 13:04:45.5658|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 13:04:47.0770|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 13:04:47.0930|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo7727@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 13:29:00.8816|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:29:20.4684|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:29:20.4979|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Missing type map configuration or unsupported mapping.
+
+Mapping types:
+IUserEntity -> IUser
+SecurityAppBusiness.Interface.IUserEntity -> SecurityAppDataAccess.Interface.IUser
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:30:50.7122|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:31:15.2360|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:31:15.2575|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:35:01.1195|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 13:36:02.6602|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:36:02.8202|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:36:29.0607|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"1234","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 13:36:46.5318|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:36:46.6559|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:44:23.7554|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"1234","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 13:45:05.8255|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:45:05.8395|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo7727@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 13:47:48.2695|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"1234","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 13:48:24.7729|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:48:24.9035|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Value cannot be null.
+Parameter name: entity
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:52:33.8322|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:52:50.3039|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:52:50.4623|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:53:13.6008|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:53:27.4334|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:53:27.4445|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:54:02.5645|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User/25
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":25}]}
+
+2017-03-01 13:55:29.9401|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:55:43.3617|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:55:43.4809|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:55:48.6627|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:56:15.3795|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:56:15.5422|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:56:20.4124|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:56:27.2669|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:56:27.2669|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:57:08.8959|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:57:15.0891|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:57:15.1011|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:57:48.2433|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:57:55.4767|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 13:57:55.5902|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : A null value was returned where an instance of IHttpActionResult was expected.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:58:09.5476|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":null}]}
+
+2017-03-01 13:58:16.3914|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 13:58:16.5024|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : A null value was returned where an instance of IHttpActionResult was expected.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:58:27.5944|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":0,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 13:58:37.1695|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 13:58:37.2929|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo7727@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 13:59:22.4326|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 13:59:31.6801|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 13:59:31.9897|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : A null value was returned where an instance of IHttpActionResult was expected.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 13:59:44.8326|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 14:00:14.3602|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo7727@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 14:00:31.7420|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo77227@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 14:00:45.6522|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 14:00:51.3643|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Put
+Action Parameters : 
+
+2017-03-01 14:00:51.5634|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo777@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.NonQuery(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 14:02:59.4816|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Delete
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 14:03:27.2509|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: DELETE
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Delete
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 14:03:32.8954|ERROR|SecurityAppApi.Helpers.NLogger|Method: DELETE
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Delete
+Action Parameters : 
+
+2017-03-01 14:03:33.0308|ERROR|SecurityAppApi.Helpers.NLogger|Method: DELETE
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-01 15:23:22.2949|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo777@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 15:23:24.0561|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 15:23:24.0990|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo777@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 15:23:56.0193|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo77127@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 16:11:48.5545|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userEntity":{"IdUser":25,"Name":"Rafael","LastName":"Mora","Address":"Cartago123","Email":"rmo77127@gmail.com","Phone":"70125373","Status":true,"UserName":"rmor1a","Password":"123","CreateDateTime":"\/Date(1488348000000)\/","Roles":null}}]}
+
+2017-03-01 16:11:49.8097|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Post
+Action Parameters : 
+
+2017-03-01 16:11:49.8327|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/api/User
+Error Message : An error occurred while updating the entries. See the inner exception for details.
+Error Inner Exception : System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> MySql.Data.MySqlClient.MySqlException: Duplicate entry 'rmo77127@gmail.com' for key 'Email_UNIQUE'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+Action Parameters : 
+
+2017-03-01 16:12:09.5754|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
