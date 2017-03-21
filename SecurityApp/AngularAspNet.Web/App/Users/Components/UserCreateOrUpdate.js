@@ -7,6 +7,8 @@
 
         var selfUserAddOrEditController = this;
 
+        var urlWebApiUser = "http://localhost/SecurityAppApi/Api/User/";
+
         selfUserAddOrEditController.alerts = [];
 
         selfUserAddOrEditController.user = {
@@ -23,7 +25,7 @@
         }
 
         selfUserAddOrEditController.refreshUser = function () {
-            viewModelHelper.apiGet("http://localhost/SecurityAppApi/Api/User/" + selfUserAddOrEditController.user.idUser,
+            viewModelHelper.apiGet(urlWebApiUser + selfUserAddOrEditController.user.idUser,
             null,
             function (result) {
                 selfUserAddOrEditController.user = result.data;
@@ -45,7 +47,7 @@
                 });
             }
             else {
-                viewModelHelper.apiPost("http://localhost/SecurityAppApi/Api/User/", selfUserAddOrEditController.user,
+                viewModelHelper.apiPost(urlWebApiUser, selfUserAddOrEditController.user,
                 function (result) {
                     viewModelHelper.closeModal(result);
                 },
@@ -62,6 +64,7 @@
         selfUserAddOrEditController.closeAlert = function (index) {
             viewModelHelper.closeAlert(selfUserAddOrEditController.alerts, index);
         }
+
         selfUserAddOrEditController.backToList = function () {
             viewModelHelper.navigateTo("users");
         }

@@ -58,17 +58,17 @@ namespace SecurityAppBusiness.BusinessObject
         }
         public void Save(IApplicationEntity applicationEntityEntity)
         {
-            var dataApplication = Mapper.Map<IApplicationEntity, IApplication>(applicationEntityEntity);
+            var dataApplication = Mapper.Map<IApplicationEntity, Application>(applicationEntityEntity);
             dataApplication.Save();
         }
         public void Update(IApplicationEntity applicationEntityEntity)
         {
-            var dataApplication = Mapper.Map<IApplicationEntity, IApplication>(applicationEntityEntity);
+            var dataApplication = Mapper.Map<IApplicationEntity, Application>(applicationEntityEntity);
             dataApplication.Update();
         }
         public void Delete(IApplicationEntity applicationEntityEntity)
         {
-            var dataApplication = Mapper.Map<IApplicationEntity, IApplication>(applicationEntityEntity);
+            var dataApplication = Mapper.Map<IApplicationEntity, Application>(applicationEntityEntity);
             dataApplication.Delete();
         }
     }

@@ -208,6 +208,11 @@ textarea {
     color: #DE5959;
 }
 
+.divFormSpace {
+    height: 72px;
+    width:  50%;
+}
+
 #sendmessage {
     border: 1px solid #fff;
     display: none;

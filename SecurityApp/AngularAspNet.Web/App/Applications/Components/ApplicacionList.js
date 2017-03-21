@@ -1,13 +1,17 @@
 ﻿(function () {
     "use strict";
 
-    applicationListController.$inject = ["applicationsService", "$routeParams", "viewModelHelper"];
+    applicationListController.$inject = ["applicationsService", "$routeParams", "viewModelHelper", "$timeout", "$scope"];
 
-    function applicationListController(applicationsService, $routeParams, viewModelHelper) {
+    function applicationListController(applicationsService, $routeParams, viewModelHelper, $timeout, $scope) {
 
         var selfApplicatiosListController = this;
-        var urlCreateOrUpdateTemplate = "/Applications/Template/ApplicacionCreateOrUpdate.tmpl.cshtml";
+
         selfApplicatiosListController.alerts = [];
+        
+        var urlCreateOrUpdateTemplate = "/Applications/Template/ApplicacionCreateOrUpdate.tmpl.cshtml";
+
+        var urlWebApiApplication = "http://localhost/SecurityAppApi/Api/Application";
 
         selfApplicatiosListController.$onInit = function () {
             selfApplicatiosListController.loadApplications();
@@ -16,10 +20,9 @@
         selfApplicatiosListController.$onDestroy = function () {
         }
 
-
         selfApplicatiosListController.edit = function ($event) {
-            applicationsService.idApplication = viewModelHelper.getGridDataItem($event).idApplication;
-            viewModelHelper.openModal("/Users/Template/UserCreateOrUpdate.tmpl.cshtml");
+            applicationsService.idApplication = viewModelHelper.getGridDataItem($event, $scope).idApplication;
+            viewModelHelper.openModal(urlCreateOrUpdateTemplate);
         };
 
         selfApplicatiosListController.add = function () {
@@ -29,13 +32,22 @@
         }
 
         selfApplicatiosListController.loadApplications = function () {
-            viewModelHelper.apiGet("http://localhost/SecurityAppApi/api/Application",
+            viewModelHelper.apiGet(urlWebApiApplication,
                 null,
                 function (result) {
                     selfApplicatiosListController.applications = result.data;
                 }, function (alerts) {
                     selfApplicatiosListController.alerts = alerts;
                 });
+        }
+
+        selfApplicatiosListController.delete = function (application) {
+            viewModelHelper.apiDelete(urlWebApiApplication, angular.toJson(application),
+             function (result) {
+                 selfApplicatiosListController.loadApplications();
+             }, function (alerts) {
+                 selfApplicatiosListController.alerts = alerts;
+             });
         }
 
         selfApplicatiosListController.gridOptions = {
@@ -57,7 +69,7 @@
                         {
                             template:
                                 "<div class=\"btn-group\" role=\"group\" aria-label=\"Basic example\">"
-                              + "<button class=\"btn btn-default\" ng-really-message=\"Do you want to Delete user?\" type=\"button\" tooltip-placement=\"right\" uib-tooltip=\"Delete\"  ng-really-click=\"$ctrl.delete(dataItem)\">"
+                              + "<button class=\"btn btn-default\" ng-really-message=\"Do you want to Delete Application?\" type=\"button\" tooltip-placement=\"right\" uib-tooltip=\"Delete\"  ng-really-click=\"$ctrl.delete(dataItem)\">"
                               + "<span class=\"fa fa-minus-square-o\"></span>"
                               + "</button>"
                               + "<button class=\"btn btn-default\" type=\"button\" ng-click=\"$ctrl.edit($event)\" tooltip-placement=\"right\" uib-tooltip=\"Edit\" >"

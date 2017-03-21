@@ -5,64 +5,67 @@
 
     function applicationAddOrEditController($scope, applicationsService, $routeParams, viewModelHelper) {
 
-        var selfUserAddOrEditController = this;
+        var applicationAddOrEditController = this;
 
-        selfUserAddOrEditController.alerts = [];
+        applicationAddOrEditController.alerts = [];
 
-        selfUserAddOrEditController.application = {
-            idUser: parseInt($routeParams.idApplication) || parseInt(applicationsService.idApplication) || 0
+        var urlWebApiApplication = "http://localhost/SecurityAppApi/Api/Application";
+
+        applicationAddOrEditController.application = {
+            idApplication: parseInt($routeParams.idApplication) || parseInt(applicationsService.idApplication) || 0
         };
 
-        selfUserAddOrEditController.$onInit = function () {
-            if (selfUserAddOrEditController.application.idApplication > 0) {
-                selfUserAddOrEditController.refreshApplication();
+        applicationAddOrEditController.$onInit = function () {
+            if (applicationAddOrEditController.application.idApplication > 0) {
+                applicationAddOrEditController.refreshApplication();
             }
         }
 
-        selfUserAddOrEditController.$onDestroy = function () {
+        applicationAddOrEditController.$onDestroy = function () {
         }
 
-        selfUserAddOrEditController.refreshApplication = function () {
-            viewModelHelper.apiGet("http://localhost/SecurityAppApi/Api/Application/" + selfUserAddOrEditController.application.idApplication,
+        applicationAddOrEditController.refreshApplication = function () {
+            viewModelHelper.apiGet(urlWebApiApplication + applicationAddOrEditController.application.idApplication,
             null,
             function (result) {
-                selfUserAddOrEditController.application = result.data;
+                applicationAddOrEditController.application = result.data;
             },
             function (alerts) {
-                selfUserAddOrEditController.alerts = alerts;
+                applicationAddOrEditController.alerts = alerts;
             });
         }
 
-        selfUserAddOrEditController.save = function () {
-            if (selfUserAddOrEditController.application.idApplication > 0) {
-                viewModelHelper.apiPut("http://localhost/SecurityAppApi/Api/Application/", selfUserAddOrEditController.application,
+        applicationAddOrEditController.save = function () {
+            if (applicationAddOrEditController.application.idApplication > 0) {
+                viewModelHelper.apiPut(urlWebApiApplication, applicationAddOrEditController.application,
                 function (result) {
                     applicationsService.navigateToApplicationList();
                     viewModelHelper.closeModal(result);
                 },
                 function (alerts) {
-                    selfUserAddOrEditController.alerts = alerts;
+                    applicationAddOrEditController.alerts = alerts;
                 });
             }
             else {
-                viewModelHelper.apiPost("http://localhost/SecurityAppApi/Api/Application/", selfUserAddOrEditController.application,
+                viewModelHelper.apiPost(urlWebApiApplication, applicationAddOrEditController.application,
                 function (result) {
                     viewModelHelper.closeModal(result);
                 },
                 function (alerts) {
-                    selfUserAddOrEditController.alerts = alerts;
+                    applicationAddOrEditController.alerts = alerts;
                 });
             }
         }
 
-        selfUserAddOrEditController.cancelModal = function () {
+        applicationAddOrEditController.cancelModal = function () {
             viewModelHelper.cancelModal();
         }
 
-        selfUserAddOrEditController.closeAlert = function (index) {
-            viewModelHelper.closeAlert(selfUserAddOrEditController.alerts, index);
+        applicationAddOrEditController.closeAlert = function (index) {
+            viewModelHelper.closeAlert(applicationAddOrEditController.alerts, index);
         }
-        selfUserAddOrEditController.backToList = function () {
+
+        applicationAddOrEditController.backToList = function () {
             viewModelHelper.navigateTo("applications");
         }
     }

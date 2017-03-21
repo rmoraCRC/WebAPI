@@ -77,20 +77,37 @@ namespace SecurityApp.Web.Helpers
 
             contentFormTagLeft.Append(formTagCreate.Where(x => x.Key.Equals(HtmlTypeTag.HtmlTagType.Hidden.ToString())).Select(x => x.Value));
 
-            var formTagToAdd = formTagCreate.RemoveAll(x => x.Key.Equals(HtmlTypeTag.HtmlTagType.Hidden.ToString()));
+            formTagCreate.RemoveAll(x => x.Key.Equals(HtmlTypeTag.HtmlTagType.Hidden.ToString()));
 
-            var quantityForLeftContainer = formTagCreate.Count() / 2;
+            int index = 0;
+            var tagContentDivide = from item in formTagCreate
+                                   group item by index++ % 2 into part
+                                   select part.ToList();
 
-            for (int indexLeft = 0; indexLeft < quantityForLeftContainer; indexLeft++)
+            var tagToGroup = tagContentDivide as IList<List<KeyValuePair<string, HtmlTag>>> ?? tagContentDivide.ToList();
+
+            foreach (var groupLeft in tagToGroup[0])
             {
-                contentFormTagLeft.Append(formTagCreate[indexLeft].Value);
+                contentFormTagLeft.Append(groupLeft.Value);
             }
 
-            var quantityForRightContainer = (quantityForLeftContainer*2);
-
-            for (int indexRight = quantityForLeftContainer; indexRight < quantityForRightContainer; indexRight++)
+            foreach (var groupRight in tagToGroup[1])
             {
-                contentFormTagRight.Append(formTagCreate[indexRight].Value);
+                contentFormTagRight.Append(groupRight.Value);
+            }
+
+
+
+            var quantityToAddForLeftContainer = tagToGroup[0].Count() - tagToGroup[1].Count();
+            if (quantityToAddForLeftContainer >= 1)
+            {
+                var divTagSpace = new HtmlTag("div")
+                    .AddClass("divFormSpace");
+
+                for (int i = 0; i < quantityToAddForLeftContainer; i++)
+                {
+                    contentFormTagRight.Append(divTagSpace);
+                }
             }
 
             return contentFormTag.Append(contentFormTagLeft).Append(contentFormTagRight);

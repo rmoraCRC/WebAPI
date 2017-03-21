@@ -7,6 +7,10 @@
 
         var selfUserListController = this;
 
+        var urlWebApiUser = "http://localhost/SecurityAppApi/Api/User/";
+
+        var urlCreateOrUpdateTemplate = "/Users/Template/UserCreateOrUpdate.tmpl.cshtml";
+
         selfUserListController.alerts = [];
 
         selfUserListController.$onInit = function () {
@@ -16,20 +20,19 @@
         selfUserListController.$onDestroy = function () {
         }
 
-
         selfUserListController.edit = function ($event) {
-            userService.userId = viewModelHelper.getGridDataItem($event).idUser;
-            viewModelHelper.openModal("/Users/Template/UserCreateOrUpdate.tmpl.cshtml");
+            userService.userId = viewModelHelper.getGridDataItem($event, $scope).idUser;
+            viewModelHelper.openModal(urlCreateOrUpdateTemplate);
         };
 
         selfUserListController.add = function () {
             userService.userId = 0;
-            viewModelHelper.openModal("/Users/Template/UserCreateOrUpdate.tmpl.cshtml");
+            viewModelHelper.openModal(urlCreateOrUpdateTemplate);
             selfUserListController.loadUsers();
         }
 
         selfUserListController.delete = function (user) {
-            viewModelHelper.apiDelete("http://localhost/SecurityAppApi/Api/User/", angular.toJson(user),
+            viewModelHelper.apiDelete(urlWebApiUser, angular.toJson(user),
              function (result) {
                  selfUserListController.loadUsers();
              }, function (alerts) {
@@ -38,7 +41,7 @@
         }
 
         selfUserListController.loadUsers = function () {
-            viewModelHelper.apiGet("http://localhost/SecurityAppApi/Api/User",
+            viewModelHelper.apiGet(urlWebApiUser,
                 null,
                 function (result) {
                     selfUserListController.users = result.data;

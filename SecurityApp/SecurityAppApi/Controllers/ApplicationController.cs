@@ -5,6 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
+using Newtonsoft.Json;
 using SecurityAppApi.ActionFilters;
 using SecurityAppApi.ErrorHelper;
 using SecurityAppBusiness.BusinessObject;
@@ -47,9 +48,11 @@ namespace SecurityAppApi.Controllers
             return Ok();
         }
 
-        public IHttpActionResult Delete(ApplicationEntity applicationEntity)
+        public IHttpActionResult Delete([FromBody]ApplicationEntity applicationEntity)
         {
-            ApplicationBusiness.GetNewApplication().Delete(applicationEntity);
+            var requestContent = Request.Headers.GetValues("body").FirstOrDefault();
+            var entity = JsonConvert.DeserializeObject<ApplicationEntity>(requestContent);
+            ApplicationBusiness.GetNewApplication().Delete(entity);
             return Ok();
         }
     }
