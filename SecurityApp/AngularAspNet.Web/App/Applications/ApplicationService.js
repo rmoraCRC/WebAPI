@@ -14,9 +14,14 @@
 
         $routeProvider
             .when(rootPath + "applications", {
-                templateUrl: "/Applications/template/ApplicacionList.tmpl.cshtml",
+                templateUrl: "/Applications/Template/ApplicacionList.tmpl.cshtml",
                 caseInsensitiveMatch: true
-            })     
+            })
+             .when(rootPath + "applications/:applicationId",
+            {
+                templateUrl: "/Applications/Template/ApplicacionCreateOrUpdate.tmpl.cshtml",
+                caseInsensitiveMatch: true
+            })
             .otherwise({ redirectTo: (rootPath + "applications") });
 
         $locationProvider.html5Mode({ enabled: true, requireBase: false });
@@ -31,10 +36,19 @@
     (function (app) {
         var applicationsService = function ($rootScope, $http, $q, $location, viewModelHelper) {
             var self = this;
+            self.idApplication = 0;
 
             self.navigateToApplicationList = function () {
                 viewModelHelper.navigateTo("applications");
             }                      
+
+            self.navigateToApplication = function (idApplication) {
+                viewModelHelper.navigateTo("users/" + idApplication);
+            }
+
+            self.navigateToHome = function () {
+                viewModelHelper.navigateTo("home");
+            }
 
             return this;
         };

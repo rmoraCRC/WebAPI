@@ -107,6 +107,13 @@
 
         }
 
+        selfViewModelHelper.getGridDataItem  = function ($event) {
+            var sender = $event.currentTarget;
+
+            var row = angular.element(sender).closest("tr");
+
+            return $scope.kendo.myGrid.dataItem(row);
+        }
         return this;
     };
 

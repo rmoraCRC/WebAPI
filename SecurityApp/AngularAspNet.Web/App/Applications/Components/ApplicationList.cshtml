@@ -1,32 +1,13 @@
-﻿<h1>Applications List</h1>   
-<div>
+﻿<div>
     <h1 class="page-header">
         Applications
-        <a class="pull-right" href="" ng-click="$ctrl.add()"><i class="glyphicon glyphicon-plus-sign"></i></a>
+        <a class="pull-right" tooltip-placement="left" uib-tooltip="Add New Application" href="" ng-click="$ctrl.add()"><i class="fa fa-plus-circle"></i></a>
     </h1>
-    <table class="table table-bordered">
-        <tr>
-            <th>
-                Action
-            </th>
-            <th>Application Id</th>
-            <th>Name</th>
-            <th>Creation Date</th>
-            <th>Status</th>
-        </tr>
-        <tr ng-repeat="application in $ctrl.applications">
-            <td>
-                <button type="button" ng-click="$ctrl.edit(application.idApplication)">
-                    <span class="glyphicon glyphicon-pencil"></span>
-                </button>
-            </td>
-            <td>{{application.idApplication}}</td>
-            <td>{{application.description}}</td>
-            <td>{{application.createDateTime}}</td>
-            <td>{{application.status}}</td>
-        </tr>
-    </table>
-
+    <div kendo-grid="kendo.myGrid" k-options="$ctrl.gridOptions" k-data-source="$ctrl.applications"></div>
+    <div class="modal-footer">
+        <div uib-alert ng-repeat="alert in $ctrl.alerts" ng-class="'alert-' + (alert.type || 'warning')" close="$ctrl.closeAlert($index)">{{alert.msg}}</div>
+    </div>
 </div>
+
 
 

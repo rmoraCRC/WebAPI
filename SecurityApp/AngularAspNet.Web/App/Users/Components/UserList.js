@@ -13,27 +13,12 @@
             selfUserListController.loadUsers();
         }
 
-        selfUserListController.intervalFunction = function () {
-            $timeout(function () {
-                selfUserListController.loadUsers();
-                selfUserListController.intervalFunction();
-            }, 1000);
-        };
-
         selfUserListController.$onDestroy = function () {
         }
 
-        function getGridDataItem($event) {
-            var sender = $event.currentTarget;
-
-            var row = angular.element(sender).closest("tr");
-
-            return $scope.kendo.myGrid.dataItem(row);
-        }
 
         selfUserListController.edit = function ($event) {
-
-            userService.userId = getGridDataItem($event).idUser;
+            userService.userId = viewModelHelper.getGridDataItem($event).idUser;
             viewModelHelper.openModal("/Users/Template/UserCreateOrUpdate.tmpl.cshtml");
         };
 

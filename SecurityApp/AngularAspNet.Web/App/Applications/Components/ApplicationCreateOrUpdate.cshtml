@@ -1,0 +1,23 @@
+﻿@using SecurityApp.Web.Helpers
+@model SecurityApp.Web.Models.Application
+
+<form novalidate name="form" ng-submit="form.$valid && $ctrl.save()">
+    <div>
+        <h1>
+            <span>
+                <i class="fa fa-microchip"></i>
+            </span>
+            Application Information
+        </h1>
+    </div>
+    <div class="contentform">
+        @Html.Angular().FormForModelInputGroup("$ctrl.application")
+    </div>
+    <div class="button-contaniner">
+        <button type="button" class="button-form-left" ng-click="$ctrl.save()">Add</button>
+        <button type="button" class="button-form-right" ng-click="$ctrl.cancelModal()">Cancel</button>
+    </div>
+</form>
+<div class="button-contaniner">
+    <div uib-alert ng-repeat="alert in $ctrl.alerts" ng-class="'alert-' + (alert.type || 'warning')" close="$ctrl.closeAlert($index)">{{alert.msg}}</div>
+</div>

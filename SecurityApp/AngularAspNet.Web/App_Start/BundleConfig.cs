@@ -55,7 +55,7 @@ namespace SecurityApp.Web
                  "~/App/Utility/*.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/scripts/users").Include(
-                "~/App/Users/App.js",
+                "~/App/Users/UserService.js",
                 "~/App/Users/Components/*.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/scripts/applications").Include(

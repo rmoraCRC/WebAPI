@@ -19,3 +19,24 @@ C:\Users\Rafael Mora\Documents\Visual Studio 2015\Projects\SecurityApp\SecurityA
 C:\Users\Rafael Mora\Documents\Visual Studio 2015\Projects\SecurityApp\SecurityAppUnitTest\obj\Debug\SecurityAppUnitTest.csprojResolveAssemblyReference.cache
 C:\Users\Rafael Mora\Documents\Visual Studio 2015\Projects\SecurityApp\SecurityAppUnitTest\obj\Debug\SecurityAppUnitTest.dll
 C:\Users\Rafael Mora\Documents\Visual Studio 2015\Projects\SecurityApp\SecurityAppUnitTest\obj\Debug\SecurityAppUnitTest.pdb
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppUnitTest.dll.config
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppUnitTest.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppUnitTest.pdb
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppBusiness.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppDataAccess.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\AutoMapper.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\EntityFramework.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppCustomException.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\MySql.Data.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppBusiness.pdb
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppDataAccess.pdb
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\AutoMapper.xml
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\EntityFramework.xml
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\bin\Debug\SecurityAppCustomException.pdb
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\obj\Debug\SecurityAppUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\obj\Debug\SecurityAppUnitTest.dll
+C:\Users\Rafael Mora\Source\Repos\WebAPI\SecurityApp\SecurityAppUnitTest\obj\Debug\SecurityAppUnitTest.pdb

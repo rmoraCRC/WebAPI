@@ -4,32 +4,6 @@
         <a class="pull-right" tooltip-placement="left" uib-tooltip="Add New User" href="" ng-click="$ctrl.add()"><i class="fa fa-plus-circle"></i></a>
     </h1>
     <div kendo-grid="kendo.myGrid" k-options="$ctrl.gridOptions" k-data-source="$ctrl.users"></div>
-
-    @*<table class="table table-bordered">
-            <tr>
-                <th>
-                    Action
-                </th>
-                <th>User Id</th>
-                <th>UserName</th>
-                <th>Name</th>
-                <th>Last Name</th>
-            </tr>
-            <tr ng-repeat="user in $ctrl.users">
-                <td>
-                    <button type="button" ng-click="$ctrl.edit(user.idUser)">
-                        <span class="fa fa-pencil-square-o"></span>
-                    </button>
-                    <button ng-really-message="Do you want to Delete {{user.userName}} user?" type="button" ng-really-click="$ctrl.delete(user)">
-                        <span class="fa fa-minus-square-o"></span>
-                    </button>
-                </td>
-                <td>{{user.idUser}}</td>
-                <td>{{user.userName}}</td>
-                <td>{{user.name}}</td>
-                <td>{{user.lastName}}</td>
-            </tr>
-        </table>*@
     <div class="modal-footer">
         <div uib-alert ng-repeat="alert in $ctrl.alerts" ng-class="'alert-' + (alert.type || 'warning')" close="$ctrl.closeAlert($index)">{{alert.msg}}</div>
     </div>
