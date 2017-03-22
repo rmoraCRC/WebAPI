@@ -3,17 +3,17 @@
 
     angular
         .module("common", ["ngRoute", "chieffancypants.loadingBar", "ui.bootstrap", "formValidation", "parseDateTime",
-            "modalConfirm", "kendo.directives"])
+            "modalConfirm", "kendo.directives", "base64", "ngAnimate", "toastr"])
         .factory("viewModelHelper", [
-            "$http", "$q", "$window", "$location", "$timeout", "$uibModal",
-            function ($http, $q, $window, $location, $timeout, $uibModal) {
-                return window.App.viewModelHelper($http, $q, $window, $location, $timeout, $uibModal);
-            }
-        ]);   
-    
+            "$http", "$q", "$window", "$location", "$timeout", "$uibModal", "$base64", "toastr",
+    function ($http, $q, $window, $location, $timeout, $uibModal, $base64, toastr) {
+        return window.App.viewModelHelper($http, $q, $window, $location, $timeout, $uibModal, $base64, toastr);
+    }
+        ]);
+
     angular
         .module("main", ["common"]);
-    window.App.viewModelHelper = function ($http, $q, $window, $location, $timeout, $uibModal) {
+    window.App.viewModelHelper = function ($http, $q, $window, $location, $timeout, $uibModal, $base64, toastr) {
 
         var selfViewModelHelper = this;
 
@@ -35,6 +35,12 @@
 
         selfViewModelHelper.apiPost = function (uri, data, success, failure, always) {
             $http.post(uri, data, headerConfig)
+                .then(function (result) { selfViewModelHelper.successCallback(result, success, always); },
+                    function (result) { selfViewModelHelper.errorCallback(result, failure, always); });
+        }
+
+        selfViewModelHelper.apiPostGenarateToken = function (uri, data, headerAuthConfig, success, failure, always) {
+            $http.post(uri, data, headerAuthConfig)
                 .then(function (result) { selfViewModelHelper.successCallback(result, success, always); },
                     function (result) { selfViewModelHelper.errorCallback(result, failure, always); });
         }
@@ -115,6 +121,29 @@
             return $scope.kendo.myGrid.dataItem(row);
         }
 
+        selfViewModelHelper.Encode = function (stringToEnconde) {
+            return $base64.encode(stringToEnconde);
+        }
+
+        selfViewModelHelper.Decode = function (stringToEnconde) {
+            return $base64.decode(stringToEnconde);
+        }
+
+        selfViewModelHelper.successMessage = function (tilteMessage,messageToShow) {
+            toastr.success(messageToShow, tilteMessage);
+        }
+
+        selfViewModelHelper.infoMessage = function (tilteMessage, messageToShow) {
+            toastr.info(messageToShow, tilteMessage);
+        }
+ 
+        selfViewModelHelper.errorMessage = function (tilteMessage, messageToShow) {
+            toastr.error(messageToShow, tilteMessage);
+        }
+
+        selfViewModelHelper.warningMessage = function (tilteMessage, messageToShow) {
+            toastr.warning(messageToShow, tilteMessage);
+        }
         return this;
     };
 

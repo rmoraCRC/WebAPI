@@ -136,6 +136,8 @@
     <Content Include="App\Utility\InputValidationIconsDirective.js" />
     <Content Include="App\Utility\ModalConfirmDirective.js" />
     <Content Include="App\Utility\ParseDateFilter.js" />
+    <Content Include="Content\angular-toastr.css" />
+    <Content Include="Content\angular-toastr.min.css" />
     <Content Include="Content\awesome-bootstrap-checkbox.css" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
@@ -490,9 +492,16 @@
     <Content Include="Global.asax" />
     <Content Include="Html\red.html" />
     <Content Include="Scripts\angular-animate.js" />
+    <Content Include="Scripts\angular-base64.js" />
     <Content Include="Scripts\angular-mocks.js" />
     <Content Include="Scripts\angular-route.js" />
     <Content Include="Scripts\angular-route.min.js" />
+    <Content Include="Scripts\angular-sanitize.js" />
+    <Content Include="Scripts\angular-sanitize.min.js" />
+    <Content Include="Scripts\angular-toastr.js" />
+    <Content Include="Scripts\angular-toastr.min.js" />
+    <Content Include="Scripts\angular-toastr.tpls.js" />
+    <Content Include="Scripts\angular-toastr.tpls.min.js" />
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\angular.min.js" />
     <Content Include="Scripts\angular_1_router.js" />
@@ -618,6 +627,7 @@
     <Content Include="font-awesome\fonts\fontawesome-webfont.woff" />
     <Content Include="font-awesome\fonts\fontawesome-webfont.woff2" />
     <Content Include="font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Scripts\angular-sanitize.min.js.map" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <Content Include="Scripts\bootstrap\bootstrap.js" />
     <Content Include="Scripts\bootstrap\bootstrap.min.js" />
@@ -783,6 +793,9 @@
     <Compile Include="Helpers\HtmlTypeTag.cs" />
     <Compile Include="Helpers\JsonHtmlHelpers.cs" />
     <Compile Include="Models\Application.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Group.cs" />
+    <Compile Include="Models\Token.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utilities\DateExtensions.cs" />

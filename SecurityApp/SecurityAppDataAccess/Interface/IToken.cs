@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using SecurityAppDataAccess.Model;
 
 namespace SecurityAppDataAccess.Interface
@@ -13,5 +15,6 @@ namespace SecurityAppDataAccess.Interface
         bool Status { get; set; }
         IToken GetAuthToken(string id);
         IToken GetValidAuthToken(string id);
+        IQueryable<IToken> GetTokenByUserId(int userId);
     }
 }

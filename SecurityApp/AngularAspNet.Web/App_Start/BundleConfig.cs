@@ -27,9 +27,9 @@ namespace SecurityApp.Web
                         "~/Content/site.css",
                         "~/font-awesome/css/font-awesome.css",
                         "~/Content/loading-bar.css",
-                        "~/Content/awesome-bootstrap-checkbox.css",
                         "~/Content/bootstrap.css",
-                        "~/Content/bootstrap-grid.css"
+                        "~/Content/bootstrap-grid.css",
+                        "~/Content/angular-toastr.css"
                 ));
         }
 
@@ -48,7 +48,10 @@ namespace SecurityApp.Web
                 "~/Scripts/ui-bootstrap.js",
                 "~/Scripts/ui-bootstrap-tpls-2.5.0.js",
                 "~/Scripts/bootstrap/tether.min.js",
-                "~/Scripts/bootstrap/bootstrap.js"
+                "~/Scripts/bootstrap/bootstrap.js",
+                "~/Scripts/angular-base64.js",
+                "~/Scripts/angular-sanitize.js",
+                "~/Scripts/angular-toastr.tpls.js"
                 ));
 
             bundles.Add(new ScriptBundle("~/bundles/utility").Include(

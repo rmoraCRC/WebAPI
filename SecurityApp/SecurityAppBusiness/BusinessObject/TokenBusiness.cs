@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
 using AutoMapper;
@@ -14,14 +16,20 @@ namespace SecurityAppBusiness.BusinessObject
         private static IBusinessTokenMethods _tokenInstance;
         private TokenBusiness()
         {
+           
+        }
+
+        private static void MapperConfiguration()
+        {
             Mapper.Initialize(cfg =>
             {
                 cfg.CreateMap<Token, ITokenEntity>();
                 cfg.CreateMap<ITokenEntity, Token>();
             });
         }
-        public static IBusinessTokenMethods GetNewApplication()
+        public static IBusinessTokenMethods GetNewToken()
         {
+            MapperConfiguration();
             return _tokenInstance ?? (_tokenInstance = new TokenBusiness());
         }
         public ITokenEntity GenerateToken(int userId)
@@ -79,6 +87,17 @@ namespace SecurityAppBusiness.BusinessObject
         {
             var dataUser = Mapper.Map<ITokenEntity, Token>(tokenEntity);
             dataUser.Update();
+        }
+        public IQueryable<ITokenEntity> GetTokenByUserId(int userId)
+        {
+            var token = Token.GetNewToken();
+            var dataUsers = token.GetTokenByUserId(userId);
+
+            if (dataUsers.Any())
+                return Mapper.Map<IEnumerable<IToken>, IEnumerable<ITokenEntity>>(dataUsers).AsQueryable();
+
+            return null;
+
         }
     }
 }

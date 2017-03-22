@@ -1,4 +1,6 @@
-﻿using SecurityAppBusiness.Entity;
+﻿using System.Collections.Generic;
+using System.Linq;
+using SecurityAppBusiness.Entity;
 
 namespace SecurityAppBusiness.Interface
 {
@@ -9,5 +11,6 @@ namespace SecurityAppBusiness.Interface
         bool Kill(string tokenId);
         bool DeleteByUserId(int userId);
         void UpdateStatus(ITokenEntity tokenEntity);
+        IQueryable<ITokenEntity> GetTokenByUserId(int userId);
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.Entity;
@@ -67,6 +68,21 @@ namespace SecurityAppDataAccess.Model
                 using (var securityAppDbContext = new SecurityAppDbContext())
                 {
                     return securityAppDbContext.Tokens.FirstOrDefault(x => x.AuthToken.Equals(id) && x.Status.Equals(true));
+                }
+            }
+            catch (Exception exception)
+            {
+                throw new EntityExceptionHandler(exception);
+            }
+        }
+
+        public IQueryable<IToken> GetTokenByUserId(int userId)
+        {
+            try
+            {
+                using (var securityAppDbContext = new SecurityAppDbContext())
+                {
+                    return securityAppDbContext.Tokens.Where(x => x.IdUser.Equals(userId));
                 }
             }
             catch (Exception exception)

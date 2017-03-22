@@ -9,6 +9,8 @@
 
         var urlWebApiUser = "http://localhost/SecurityAppApi/Api/User/";
 
+        var urlTokenAuthApiUser = "http://localhost/SecurityAppApi/Api/Authenticate";
+
         var urlCreateOrUpdateTemplate = "/Users/Template/UserCreateOrUpdate.tmpl.cshtml";
 
         selfUserListController.alerts = [];
@@ -54,6 +56,24 @@
             viewModelHelper.closeAlert(selfUserListController.alerts, index);
         }
 
+        selfUserListController.createToken = function (user) {
+            var headerAuthConfig = {
+                headers: {
+                    'Authorization': 'Basic ' + viewModelHelper.Encode(user.userName + ":" + user.password)
+                }
+            };
+
+            viewModelHelper.apiPostGenarateToken(urlTokenAuthApiUser, null, headerAuthConfig,
+               function (result) {
+                   viewModelHelper.successMessage("Successful", "The Token Has Been Created!");
+               },
+               function (alerts) {
+                   viewModelHelper.errorMessage("Error", "The Token Has Not Been Created!");
+                   selfUserListController.alerts = alerts;
+               });
+
+        }
+
         selfUserListController.gridOptions = {
             scrollable: {
                 virtual: true
@@ -76,6 +96,9 @@
                               + "</button>"
                               + "<button class=\"btn btn-default\" type=\"button\" ng-click=\"$ctrl.edit($event)\" tooltip-placement=\"right\" uib-tooltip=\"Edit\" >"
                               + "<span class=\"fa fa-pencil-square-o\"></span>"
+                              + "</button>"
+                              + "<button class=\"btn btn-default\" type=\"button\" ng-click=\"$ctrl.createToken(dataItem)\" tooltip-placement=\"left\" uib-tooltip=\"New Token\" >"
+                              + "<span class=\"fa fa-user-secret\"></span>"
                               + "</button>"
                               + "</div>"
                         }
