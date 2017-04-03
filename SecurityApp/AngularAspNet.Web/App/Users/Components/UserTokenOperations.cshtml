@@ -1,0 +1,14 @@
+﻿<div>
+    <h1 class="page-header">
+        Tokens
+        <a class="pull-right" tooltip-placement="left" uib-tooltip="Add New Token" href="" ng-click="$ctrl.add()"><i class="fa fa-plus-circle"></i></a>
+    </h1>
+    <div style="width: 80%;">
+        <div kendo-grid="kendo.myGrid" k-options="$ctrl.gridOptions" k-data-source="$ctrl.tokens"></div>
+    </div>
+    <div class="modal-footer">
+        <div uib-alert ng-repeat="alert in $ctrl.alerts" ng-class="'alert-' + (alert.type || 'warning')" close="$ctrl.closeAlert($index)">{{alert.msg}}</div>
+    </div>
+</div>
+
+

@@ -12,6 +12,7 @@
         var urlTokenAuthApiUser = "http://localhost/SecurityAppApi/Api/Authenticate";
 
         var urlCreateOrUpdateTemplate = "/Users/Template/UserCreateOrUpdate.tmpl.cshtml";
+        var urlTokenOperations = "/Users/Template/UserTokenOperations.tmpl.cshtml";
 
         selfUserListController.alerts = [];
 
@@ -26,6 +27,12 @@
             userService.userId = viewModelHelper.getGridDataItem($event, $scope).idUser;
             viewModelHelper.openModal(urlCreateOrUpdateTemplate);
         };
+
+        selfUserListController.viewTokens = function ($event) {
+            userService.userId = viewModelHelper.getGridDataItem($event, $scope).idUser;
+            viewModelHelper.openModal(urlTokenOperations);
+        };
+
 
         selfUserListController.add = function () {
             userService.userId = 0;
@@ -94,7 +101,7 @@
                               + "<button class=\"btn btn-default\" ng-really-message=\"Do you want to Delete user?\" type=\"button\" tooltip-placement=\"right\" uib-tooltip=\"Delete\"  ng-really-click=\"$ctrl.delete(dataItem)\">"
                               + "<span class=\"fa fa-minus-square-o\"></span>"
                               + "</button>"
-                              + "<button class=\"btn btn-default\" type=\"button\" ng-click=\"$ctrl.edit($event)\" tooltip-placement=\"right\" uib-tooltip=\"Edit\" >"
+                              + "<button class=\"btn btn-default\" type=\"button\" ng-click=\"$ctrl.viewTokens($event)\" tooltip-placement=\"right\" uib-tooltip=\"Edit\" >"
                               + "<span class=\"fa fa-pencil-square-o\"></span>"
                               + "</button>"
                               + "<button class=\"btn btn-default\" type=\"button\" ng-click=\"$ctrl.createToken(dataItem)\" tooltip-placement=\"left\" uib-tooltip=\"New Token\" >"

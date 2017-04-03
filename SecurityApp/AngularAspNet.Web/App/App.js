@@ -144,6 +144,7 @@
         selfViewModelHelper.warningMessage = function (tilteMessage, messageToShow) {
             toastr.warning(messageToShow, tilteMessage);
         }
+
         return this;
     };
 

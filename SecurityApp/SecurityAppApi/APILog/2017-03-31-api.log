@@ -1,0 +1,63 @@
+2017-03-31 09:08:48.2794|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-31 09:10:12.7854|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-31 10:31:59.9694|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-31 10:34:15.0811|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-31 10:46:22.0456|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-31 10:46:27.5405|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-31 11:25:56.3553|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-31 11:29:41.7918|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

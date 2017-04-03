@@ -62,12 +62,14 @@ namespace SecurityAppDataAccess.Model
                 throw new EntityExceptionHandler(exception);
             }
         }
-        public IQueryable<IGroup> GetAll()
+        public IEnumerable<IGroup> GetAll()
         {
             try
             {
-                var securityAppDbContext = new SecurityAppDbContext();
-                return securityAppDbContext.Groups;
+                using (var securityAppDbContext = new SecurityAppDbContext())
+                {
+                    return securityAppDbContext.Groups.ToList();
+                }
             }
             catch (Exception exception)
             {

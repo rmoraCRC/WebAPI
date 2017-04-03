@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Data.Entity;
@@ -40,12 +41,15 @@ namespace SecurityAppDataAccess.Model
         {
             return _customerInstance ?? (_customerInstance = new Customer());
         }
-        public IQueryable<ICustomer> GetAll()
+        public IEnumerable<ICustomer> GetAll()
         {
             try
             {
-                var securityAppDbContext = new SecurityAppDbContext();
-                return securityAppDbContext.Customers;
+                using (var securityAppDbContext = new SecurityAppDbContext())
+                {
+                    return securityAppDbContext.Customers.ToList();
+                }
+
             }
             catch (Exception exception)
             {

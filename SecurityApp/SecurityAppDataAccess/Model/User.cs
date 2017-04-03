@@ -101,12 +101,14 @@ namespace SecurityAppDataAccess.Model
                 throw new EntityExceptionHandler(exception);
             }
         }
-        public IQueryable<IUser> GetAll()
+        public IEnumerable<IUser> GetAll()
         {
             try
             {
-                var securityAppDbContext = new SecurityAppDbContext();
-                return securityAppDbContext.Users;
+                using (var securityAppDbContext = new SecurityAppDbContext())
+                {
+                    return securityAppDbContext.Users.ToList();
+                }
             }
             catch (Exception exception)
             {

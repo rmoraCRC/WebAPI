@@ -97,6 +97,8 @@ namespace SecurityAppDataAccess.Model
                 .WithRequired(e => e.user)
                 .WillCascadeOnDelete(false);
 
+            modelBuilder.Entity<Token>();
+
         }
     }
 }

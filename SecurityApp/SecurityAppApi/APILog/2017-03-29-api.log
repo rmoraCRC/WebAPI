@@ -1,0 +1,52 @@
+2017-03-29 10:12:54.2745|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/1
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2017-03-29 10:13:07.9948|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/1
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2017-03-29 10:14:22.3944|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/1
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":1}]}
+
+2017-03-29 10:14:28.7129|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/1
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : 
+
+2017-03-29 10:14:28.7129|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/1
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Object reference not set to an instance of an object.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-29 10:14:48.2665|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-29 10:14:53.3658|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

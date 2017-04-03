@@ -4,6 +4,8 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
+using SecurityAppApi.ActionFilters;
 using SecurityAppApi.ErrorHelper;
 using SecurityAppBusiness.BusinessObject;
 using SecurityAppBusiness.Entity;
@@ -11,6 +13,8 @@ using SecurityAppBusiness.Interface;
 
 namespace SecurityAppApi.Controllers
 {
+    [EnableCors("*", "*", "GET,DELETE,PUT,POST")]
+    [AuthorizationRequired]
     public class CustomerController : ApiController
     {
         public HttpResponseMessage Get()

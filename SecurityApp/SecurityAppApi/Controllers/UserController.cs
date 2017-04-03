@@ -51,5 +51,13 @@ namespace SecurityAppApi.Controllers
             UserBusiness.GetNewUser().Delete(entity);
             return Ok();
         }
+
+        public HttpResponseMessage GetToken(int userId)
+        {
+            var token = TokenBusiness.GetNewToken().GetTokenByUserId(userId);
+            if (token.Any())
+                return Request.CreateResponse(HttpStatusCode.OK, token);
+            throw new ApiDataException(1000, "Users not found", HttpStatusCode.NotFound);
+        }
     }
 }

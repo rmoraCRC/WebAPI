@@ -39,12 +39,14 @@ namespace SecurityAppDataAccess.Model
         {
             return _applicationInstance ?? (_applicationInstance = new Application());
         }
-        public IQueryable<IApplication> GetAll()
+        public IEnumerable<IApplication> GetAll()
         {
             try
             {
-                var securityAppDbContext = new SecurityAppDbContext();
-                return securityAppDbContext.Applications;
+                using (var securityAppDbContext = new SecurityAppDbContext())
+                {
+                    return securityAppDbContext.Applications.ToList();
+                }
             }
             catch (Exception exception)
             {

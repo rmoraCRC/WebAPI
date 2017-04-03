@@ -15,6 +15,6 @@ namespace SecurityAppDataAccess.Interface
         bool Status { get; set; }
         IToken GetAuthToken(string id);
         IToken GetValidAuthToken(string id);
-        IQueryable<IToken> GetTokenByUserId(int userId);
+        IEnumerable<IToken> GetTokenByUserId(int userId);
     }
 }

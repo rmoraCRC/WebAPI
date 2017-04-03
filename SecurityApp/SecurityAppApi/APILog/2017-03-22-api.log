@@ -496,3 +496,1019 @@ Controller : SecurityAppApi.Controllers.UserController
 Action : Get
 Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
 
+2017-03-22 11:27:39.9344|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:27:54.8759|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:28:32.4066|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-22 11:29:06.4399|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:29:53.0271|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":13}]}
+
+2017-03-22 11:30:09.6639|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:31:20.1916|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:32:23.0198|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:35:11.0840|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:36:02.4251|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:38:01.4250|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:43:56.6187|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 11:44:32.7392|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 11:44:32.8513|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 11:44:32.8603|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : The operation cannot be completed because the DbContext has been disposed.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-22 11:45:01.8371|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId={13}
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":null}]}
+
+2017-03-22 11:45:38.5456|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 11:50:03.9880|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 11:50:06.8610|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 11:50:11.5507|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":null}]}
+
+2017-03-22 11:50:28.8491|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/api/User?userId={userId}
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":null}]}
+
+2017-03-22 11:51:08.0753|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId={userId}
+Token: 44f4865a-f701-4362-a160-6efc86c5d48e
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":null}]}
+
+2017-03-22 11:51:33.5417|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 11:51:58.5246|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 11:51:58.6917|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : The operation cannot be completed because the DbContext has been disposed.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-22 11:52:04.0544|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 11:52:43.8126|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 11:52:43.8126|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : The operation cannot be completed because the DbContext has been disposed.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-22 11:56:00.4268|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 11:56:32.2345|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 11:56:32.4126|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while executing the command definition. See the inner exception for details.
+Error Inner Exception : MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+Action Parameters : 
+
+2017-03-22 11:56:42.8323|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 11:57:49.7563|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 11:57:49.7911|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while executing the command definition. See the inner exception for details.
+Error Inner Exception : MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+Action Parameters : 
+
+2017-03-22 12:02:25.1603|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:02:58.0401|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:02:58.0666|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while executing the command definition. See the inner exception for details.
+Error Inner Exception : MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+Action Parameters : 
+
+2017-03-22 12:03:58.5318|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:04:31.5287|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:04:31.5577|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Error mapping types.
+
+Mapping types:
+IEnumerable`1 -> IEnumerable`1
+System.Collections.Generic.IEnumerable`1[[SecurityAppDataAccess.Interface.IToken, SecurityAppDataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[SecurityAppBusiness.Interface.ITokenEntity, SecurityAppBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Error Inner Exception : System.Data.ConstraintException: The 'Status' property on 'Token' could not be set to a 'null' value. You must set this property to a non-null value of type 'System.Boolean'. 
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper.HandleEntityAppendOnly[TEntity](Func`2 constructEntityDelegate, EntityKey entityKey, EntitySet entitySet)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at lambda_method(Closure , IEnumerable`1 , IEnumerable`1 , ResolutionContext )
+Action Parameters : 
+
+2017-03-22 12:08:02.0931|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:08:43.4914|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:08:43.5164|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : The operation cannot be completed because the DbContext has been disposed.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-22 12:10:15.0619|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:10:53.7294|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:10:53.8159|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while executing the command definition. See the inner exception for details.
+Error Inner Exception : MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+Action Parameters : 
+
+2017-03-22 12:12:35.3304|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:12:36.5639|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:12:36.5783|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Error mapping types.
+
+Mapping types:
+IEnumerable`1 -> IEnumerable`1
+System.Collections.Generic.IEnumerable`1[[SecurityAppDataAccess.Interface.IToken, SecurityAppDataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[SecurityAppBusiness.Interface.ITokenEntity, SecurityAppBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Error Inner Exception : System.Data.ConstraintException: The 'Status' property on 'Token' could not be set to a 'null' value. You must set this property to a non-null value of type 'System.Boolean'. 
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper.HandleEntityAppendOnly[TEntity](Func`2 constructEntityDelegate, EntityKey entityKey, EntitySet entitySet)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at lambda_method(Closure , IEnumerable`1 , IEnumerable`1 , ResolutionContext )
+Action Parameters : 
+
+2017-03-22 12:13:12.7017|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:17:35.5065|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:17:35.5305|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:17:35.5476|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : An error occurred while executing the command definition. See the inner exception for details.
+Error Inner Exception : MySql.Data.MySqlClient.MySqlException (0x80004005): There is already an open DataReader associated with this Connection which must be closed first.
+   at MySql.Data.MySqlClient.ExceptionInterceptor.Throw(Exception exception)
+   at MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.Entity.EFMySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   at System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+Action Parameters : 
+
+2017-03-22 12:17:36.2466|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:17:36.2621|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Error mapping types.
+
+Mapping types:
+IEnumerable`1 -> IEnumerable`1
+System.Collections.Generic.IEnumerable`1[[SecurityAppDataAccess.Interface.IToken, SecurityAppDataAccess, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[SecurityAppBusiness.Interface.ITokenEntity, SecurityAppBusiness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+Error Inner Exception : System.Data.ConstraintException: The 'Status' property on 'Token' could not be set to a 'null' value. You must set this property to a non-null value of type 'System.Boolean'. 
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper.ErrorHandlingValueReader`1.GetValue(DbDataReader reader, Int32 ordinal)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper.HandleEntityAppendOnly[TEntity](Func`2 constructEntityDelegate, EntityKey entityKey, EntitySet entitySet)
+   at lambda_method(Closure , Shaper )
+   at System.Data.Entity.Core.Common.Internal.Materialization.Coordinator`1.ReadNextElement(Shaper shaper)
+   at System.Data.Entity.Core.Common.Internal.Materialization.Shaper`1.SimpleEnumerator.MoveNext()
+   at lambda_method(Closure , IEnumerable`1 , IEnumerable`1 , ResolutionContext )
+Action Parameters : 
+
+2017-03-22 12:19:04.5562|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:19:34.3925|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:19:34.6102|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : The 'Status' property on 'Token' could not be set to a 'null' value. You must set this property to a non-null value of type 'System.Boolean'. 
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-22 12:21:22.5003|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:25:56.7720|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:26:19.0339|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:26:19.0517|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : The operation cannot be completed because the DbContext has been disposed.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-22 12:28:35.0060|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:28:55.0016|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : 
+
+2017-03-22 12:28:55.0118|ERROR|SecurityAppApi.Helpers.NLogger|Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : A specified Include path is not valid. The EntityType 'SecurityAppDataAccess.Model.Token' does not declare a navigation property with the name 'Tokens'.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-03-22 12:29:48.3405|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:34:52.6285|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:35:23.6988|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:35:37.2185|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:42:42.1036|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:42:53.7973|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:43:37.8992|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:43:39.5119|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:43:44.3184|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":31}]}
+
+2017-03-22 12:49:40.0503|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:50:00.5125|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:51:20.0388|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:51:22.2832|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:51:48.7700|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:51:50.5156|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:52:18.8526|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:53:31.5348|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:53:44.6281|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=31
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":31}]}
+
+2017-03-22 12:54:12.4677|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 12:55:03.2106|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 12:58:01.1301|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:03:23.0825|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:03:54.9025|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:04:49.4300|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:14:40.8249|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:16:50.2724|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:17:01.2127|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:17:37.9090|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:17:58.2509|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:18:45.9222|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:20:01.4036|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:20:30.0932|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:21:13.0762|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:21:34.0733|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:22:05.3090|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:22:29.6447|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:24:15.3262|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:24:17.5810|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:24:28.0484|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:27:23.2180|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:28:11.9925|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:28:29.2425|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:28:37.2614|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:28:39.1310|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:31:50.1265|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:31:51.8455|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:32:22.0075|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:32:47.0334|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:33:23.5538|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:33:47.6558|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:33:57.3460|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:33:58.8762|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:34:56.6656|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:34:58.2871|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:37:33.2167|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-03-22 13:39:58.0901|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:40:05.7729|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-03-22 13:40:17.1427|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+

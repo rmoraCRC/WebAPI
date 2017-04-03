@@ -30,14 +30,6 @@ namespace SecurityAppApi.Controllers
             return null;
         }
 
-        public HttpResponseMessage GetToken(int userId)
-        {
-            var token = TokenBusiness.GetNewToken().GetTokenByUserId(userId);
-            if (token.Any())
-                return Request.CreateResponse(HttpStatusCode.OK, token);
-            throw new ApiDataException(1000, "Users not found", HttpStatusCode.NotFound);
-        }
-
         private HttpResponseMessage GetAuthToken(int userId)
         {
             var token = TokenBusiness.GetNewToken().GenerateToken(userId);

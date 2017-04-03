@@ -128,6 +128,7 @@
     <Content Include="App\Applications\Components\ApplicacionList.js" />
     <Content Include="App\Applications\Components\ApplicationCreateOrUpdate.cshtml" />
     <Content Include="App\Applications\Components\ApplicationCreateOrUpdate.js" />
+    <Content Include="App\Users\Components\UserTokenOperations.js" />
     <Content Include="App\Users\UserService.js" />
     <Content Include="App\Users\Components\UserCreateOrUpdate.js" />
     <Content Include="App\Users\Components\UserList.js" />
@@ -524,6 +525,7 @@
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="App\Applications\Template\ApplicacionCreateOrUpdate.tmpl.cshtml" />
+    <Content Include="App\Users\Components\UserTokenOperations.cshtml" />
     <None Include="App\Users\Template\UserCreateOrUpdate.tmpl.cshtml" />
     <Content Include="Content\kendo\2016.1.112\fonts\DejaVu\DejaVuSans-Bold.ttf" />
     <Content Include="Content\kendo\2016.1.112\fonts\DejaVu\DejaVuSans-BoldOblique.ttf" />
@@ -628,6 +630,7 @@
     <Content Include="font-awesome\fonts\fontawesome-webfont.woff2" />
     <Content Include="font-awesome\fonts\FontAwesome.otf" />
     <Content Include="Scripts\angular-sanitize.min.js.map" />
+    <Content Include="App\Users\Template\UserTokenOperations.tmpl.cshtml" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <Content Include="Scripts\bootstrap\bootstrap.js" />
     <Content Include="Scripts\bootstrap\bootstrap.min.js" />

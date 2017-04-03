@@ -33,12 +33,14 @@ namespace SecurityAppDataAccess.Model
         {
             return _tokenInstance ?? (_tokenInstance = new Token());
         }
-        public IQueryable<IToken> GetAll()
+        public IEnumerable<IToken> GetAll()
         {
             try
             {
-                var securityAppDbContext = new SecurityAppDbContext();
-                return securityAppDbContext.Tokens;
+                using (var securityAppDbContext = new SecurityAppDbContext())
+                {
+                    return securityAppDbContext.Tokens.ToList();
+                }
             }
             catch (Exception exception)
             {
@@ -76,13 +78,13 @@ namespace SecurityAppDataAccess.Model
             }
         }
 
-        public IQueryable<IToken> GetTokenByUserId(int userId)
+        public IEnumerable<IToken> GetTokenByUserId(int userId)
         {
             try
             {
                 using (var securityAppDbContext = new SecurityAppDbContext())
                 {
-                    return securityAppDbContext.Tokens.Where(x => x.IdUser.Equals(userId));
+                    return securityAppDbContext.Tokens.Where(x => x.IdUser.Equals(userId)).ToList();
                 }
             }
             catch (Exception exception)
