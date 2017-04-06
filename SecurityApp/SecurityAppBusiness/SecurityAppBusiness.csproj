@@ -48,28 +48,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abstract\AbstractBusinessMehods.cs" />
-    <Compile Include="BusinessObject\ApplicationBusiness.cs" />
-    <Compile Include="BusinessObject\CustomerBusiness.cs" />
-    <Compile Include="BusinessObject\GroupBusiness.cs" />
-    <Compile Include="BusinessObject\TokenBusiness.cs" />
+    <Compile Include="BusinessObject\ApplicationBusinessObject.cs" />
+    <Compile Include="BusinessObject\CustomerBusinessObject.cs" />
+    <Compile Include="BusinessObject\GroupBusinessObject.cs" />
+    <Compile Include="BusinessObject\TokenBusinessObject.cs" />
+    <Compile Include="BusinessServices\ApplicationBusinessService.cs" />
     <Compile Include="Entity\ApplicationEntity.cs" />
     <Compile Include="Entity\CustomerEntity.cs" />
     <Compile Include="Entity\GroupEntity.cs" />
     <Compile Include="Entity\TokenEntity.cs" />
     <Compile Include="Entity\UserEntity.cs" />
-    <Compile Include="Interface\IApplicationBusiness.cs" />
+    <Compile Include="Interface\IApplicationBusinessServices.cs" />
     <Compile Include="Interface\IApplicationEntity.cs" />
     <Compile Include="Interface\IBusinessMethods.cs" />
-    <Compile Include="BusinessObject\UserBusiness.cs" />
+    <Compile Include="Interface\IBusinessServicesMethods.cs" />
+    <Compile Include="BusinessObject\UserBusinessObject.cs" />
     <Compile Include="Function\SecurityFunctions.cs" />
     <Compile Include="Interface\IBusinessTokenMethods.cs" />
-    <Compile Include="Interface\ICustomerBusiness.cs" />
+    <Compile Include="Interface\ICustomerBusinessServices.cs" />
     <Compile Include="Interface\ICustomerEntity.cs" />
-    <Compile Include="Interface\IGroupBusiness.cs" />
+    <Compile Include="Interface\IGroupBusinessServices.cs" />
     <Compile Include="Interface\IGroupEntity.cs" />
     <Compile Include="Interface\ITokenEntity.cs" />
-    <Compile Include="Interface\IUserBusiness.cs" />
+    <Compile Include="Interface\IUserBusinessServices.cs" />
     <Compile Include="Interface\IUserEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

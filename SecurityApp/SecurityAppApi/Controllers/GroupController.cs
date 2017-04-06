@@ -19,7 +19,7 @@ namespace SecurityAppApi.Controllers
     {
         public HttpResponseMessage Get()
         {
-            var group = GroupBusiness.GetNewGroup();
+            var group = GroupBusinessObject.GetNewGroup();
             var groupEntities = group.GetAll();
             if (groupEntities.Any())
                 return Request.CreateResponse(HttpStatusCode.OK, groupEntities);
@@ -28,7 +28,7 @@ namespace SecurityAppApi.Controllers
 
         public HttpResponseMessage Get(int id)
         {
-            var groupBusinesses = GroupBusiness.GetNewGroup().GetById(id);
+            var groupBusinesses = GroupBusinessObject.GetNewGroup().GetById(id);
 
             if (groupBusinesses.Equals(null))
                 throw new ApiDataException(1000, "Group not found", HttpStatusCode.NotFound);
@@ -37,19 +37,19 @@ namespace SecurityAppApi.Controllers
 
         public IHttpActionResult Post(GroupEntity groupEntity)
         {
-            GroupBusiness.GetNewGroup().Save(groupEntity);
+            GroupBusinessObject.GetNewGroup().Save(groupEntity);
             return Ok();
         }
 
         public IHttpActionResult Put(GroupEntity groupEntity)
         {
-            GroupBusiness.GetNewGroup().Update(groupEntity);
+            GroupBusinessObject.GetNewGroup().Update(groupEntity);
             return Ok();
         }
 
         public IHttpActionResult Delete([FromUri]GroupEntity groupEntity)
         {
-            GroupBusiness.GetNewGroup().Delete(groupEntity);
+            GroupBusinessObject.GetNewGroup().Delete(groupEntity);
             return Ok();
         }
     }

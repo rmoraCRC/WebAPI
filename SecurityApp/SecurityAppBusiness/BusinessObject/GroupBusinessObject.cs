@@ -2,18 +2,21 @@
 using System.Collections.Generic;
 using System.Linq;
 using AutoMapper;
-using SecurityAppBusiness.Abstract;
 using SecurityAppBusiness.Interface;
 using SecurityAppDataAccess.Interface;
 using SecurityAppDataAccess.Model;
 
 namespace SecurityAppBusiness.BusinessObject
 {
-    public class GroupBusiness : IGroupBusiness
+    public class GroupBusinessObject : IGroupBusinessServices
     {
-        private static IGroupBusiness _groupInstance;
+        private static IGroupBusinessServices _groupInstance;
 
-        private GroupBusiness()
+        private GroupBusinessObject()
+        {
+            MapperConfiguration();
+        }
+        public void MapperConfiguration()
         {
             Mapper.Initialize(cfg =>
             {
@@ -21,9 +24,9 @@ namespace SecurityAppBusiness.BusinessObject
                 cfg.CreateMap<IGroupEntity, Group>();
             });
         }
-        public static IGroupBusiness GetNewGroup()
+        public static IGroupBusinessServices GetNewGroup()
         {
-            return _groupInstance ?? (_groupInstance = new GroupBusiness());
+            return _groupInstance ?? (_groupInstance = new GroupBusinessObject());
         }
         public void Save(IGroupEntity groupEntity)
         {
@@ -58,7 +61,8 @@ namespace SecurityAppBusiness.BusinessObject
 
             return Mapper.Map<IGroup, IGroupEntity>(findedGroup);
 
-        }
+        }       
+
         public void FieldsValidation()
         {
             throw new NotImplementedException();

@@ -34,7 +34,7 @@ namespace SecurityAppApi.Filters
         /// <returns></returns>
         protected override bool OnAuthorizeUser(string username, string password, HttpActionContext actionContext)
         {
-            var provider = UserBusiness.GetNewUser();
+            var provider = UserBusinessObject.GetNewUser();
             if (provider != null)
             {
                 var userId = provider.Authenticate(username, password);

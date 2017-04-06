@@ -4,7 +4,7 @@ using SecurityAppDataAccess.Model;
 
 namespace SecurityAppDataAccess.Interface
 {
-    public interface IApplication : IDataAccessMethods<IApplication>
+    public interface IApplication 
     {
         int IdApplication { get; set; }
         string Description { get; set; }

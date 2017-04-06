@@ -14,7 +14,7 @@ namespace SecurityAppApi.ActionFilters
 
         public override void OnActionExecuting(HttpActionContext filterContext)
         {          
-            var tokenProvider = TokenBusiness.GetNewToken();
+            var tokenProvider = TokenBusinessObject.GetNewToken();
 
             if (filterContext.Request.Headers.Contains(Token))
             {

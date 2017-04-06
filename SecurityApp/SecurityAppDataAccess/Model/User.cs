@@ -13,9 +13,9 @@ using SecurityAppDataAccess.Interface;
 namespace SecurityAppDataAccess.Model
 {
     [Table("securityapp.Users")]
-    public sealed class User : IUser
+    public sealed class User : IUser, IDataAccessMethods<IUser>, IUserAuthenticationMethods
     {
-        private static IUser _userInstance = null;
+        private static User _userInstance = null;
 
         #region Properties
 
@@ -67,7 +67,7 @@ namespace SecurityAppDataAccess.Model
         {
             Roles = new HashSet<Role>();
         }
-        public static IUser GetNewUser()
+        public static User GetNewUser()
         {
             return _userInstance ?? (_userInstance = new User());
         }

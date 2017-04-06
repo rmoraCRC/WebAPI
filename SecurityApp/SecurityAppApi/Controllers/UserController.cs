@@ -20,7 +20,7 @@ namespace SecurityAppApi.Controllers
     {
         public HttpResponseMessage Get()
         {
-            var user = UserBusiness.GetNewUser();
+            var user = UserBusinessObject.GetNewUser();
             var usersBusinesses = user.GetAll();
             if (usersBusinesses.Any())
                 return Request.CreateResponse(HttpStatusCode.OK, usersBusinesses);
@@ -28,7 +28,7 @@ namespace SecurityAppApi.Controllers
         }
         public HttpResponseMessage Get(int id)
         {
-            var userBusinesses = UserBusiness.GetNewUser().GetById(id);
+            var userBusinesses = UserBusinessObject.GetNewUser().GetById(id);
 
             if (userBusinesses.Equals(null))
                 throw new ApiDataException(1000, "User not found", HttpStatusCode.NotFound);
@@ -36,25 +36,25 @@ namespace SecurityAppApi.Controllers
         }
         public IHttpActionResult Post(UserEntity userEntity)
         {
-            UserBusiness.GetNewUser().Save(userEntity);
+            UserBusinessObject.GetNewUser().Save(userEntity);
             return Ok();
         }
         public IHttpActionResult Put(UserEntity userEntity)
         {
-            UserBusiness.GetNewUser().Update(userEntity);
+            UserBusinessObject.GetNewUser().Update(userEntity);
             return Ok();
         }
         public IHttpActionResult Delete([FromBody]UserEntity userEntity)
         {
             var requestContent = Request.Headers.GetValues("body").FirstOrDefault();
             var entity = JsonConvert.DeserializeObject<UserEntity>(requestContent);
-            UserBusiness.GetNewUser().Delete(entity);
+            UserBusinessObject.GetNewUser().Delete(entity);
             return Ok();
         }
 
         public HttpResponseMessage GetToken(int userId)
         {
-            var token = TokenBusiness.GetNewToken().GetTokenByUserId(userId);
+            var token = TokenBusinessObject.GetNewToken().GetTokenByUserId(userId);
             if (token.Any())
                 return Request.CreateResponse(HttpStatusCode.OK, token);
             throw new ApiDataException(1000, "Users not found", HttpStatusCode.NotFound);

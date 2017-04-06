@@ -12,9 +12,9 @@ using SecurityAppDataAccess.Model;
 namespace SecurityAppDataAccess.Model
 {
     [Table("securityapp.Applications")]
-    public sealed class Application : IApplication
+    public sealed class Application : IApplication, IDataAccessMethods<IApplication>
     {
-        private static IApplication _applicationInstance = null;
+        private static Application _applicationInstance = null;
         #region properties
         [Key]
         public int IdApplication { get; set; }
@@ -35,7 +35,7 @@ namespace SecurityAppDataAccess.Model
         {
             roles = new HashSet<Role>();
         }
-        public static IApplication GetNewApplication()
+        public static Application GetNewApplication()
         {
             return _applicationInstance ?? (_applicationInstance = new Application());
         }

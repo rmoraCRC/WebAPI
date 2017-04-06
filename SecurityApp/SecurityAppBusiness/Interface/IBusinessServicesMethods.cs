@@ -2,13 +2,13 @@
 
 namespace SecurityAppBusiness.Interface
 {
-    public interface IBusinessMethods<TEntity>
+    public interface IBusinessServicesMethods<TEntity>
     {
         void Save(TEntity tEntity);
         void Update(TEntity tEntity);
         void Delete(TEntity tEntity);
         IQueryable<TEntity> GetAll();
         TEntity GetById(int id);
-        void FieldsValidation();
+        void MapperConfiguration();
     }
 }

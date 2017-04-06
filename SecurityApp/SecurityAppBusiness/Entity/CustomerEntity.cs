@@ -1,5 +1,4 @@
-﻿using System;
-using SecurityAppBusiness.Interface;
+﻿using SecurityAppBusiness.Interface;
 
 namespace SecurityAppBusiness.Entity
 {

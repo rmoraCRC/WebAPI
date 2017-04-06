@@ -1,0 +1,212 @@
+2017-04-05 16:52:58.4950|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 16:53:32.3529|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 16:54:03.3943|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"applicationEntity":{"IdApplication":0,"Description":"test","CreateDateTime":"\/Date(1490076000000)\/","Status":false,"Roles":null}}]}
+
+2017-04-05 16:54:03.5408|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : 
+
+2017-04-05 16:54:03.5468|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Unable to cast object of type 'Proxy<SecurityAppDataAccess.Interface.IApplication_SecurityAppDataAccess_Version=1.0.0.0_Culture=neutral_PublicKeyToken=null>' to type 'SecurityAppDataAccess.Model.Application'.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-04-05 16:54:15.9469|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"applicationEntity":{"IdApplication":0,"Description":"test","CreateDateTime":"\/Date(1490076000000)\/","Status":false,"Roles":null}}]}
+
+2017-04-05 16:54:15.9629|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : 
+
+2017-04-05 16:54:16.0100|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Unable to cast object of type 'Proxy<SecurityAppDataAccess.Interface.IApplication_SecurityAppDataAccess_Version=1.0.0.0_Culture=neutral_PublicKeyToken=null>' to type 'SecurityAppDataAccess.Model.Application'.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-04-05 16:55:00.8359|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"applicationEntity":{"IdApplication":0,"Description":"test","CreateDateTime":"\/Date(1490076000000)\/","Status":false,"Roles":null}}]}
+
+2017-04-05 16:55:00.8599|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : 
+
+2017-04-05 16:55:00.8599|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Unable to cast object of type 'Proxy<SecurityAppDataAccess.Interface.IApplication_SecurityAppDataAccess_Version=1.0.0.0_Culture=neutral_PublicKeyToken=null>' to type 'SecurityAppDataAccess.Model.Application'.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-04-05 16:56:10.2148|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"applicationEntity":{"IdApplication":0,"Description":"test","CreateDateTime":"\/Date(1490076000000)\/","Status":false,"Roles":null}}]}
+
+2017-04-05 16:56:41.1667|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : 
+
+2017-04-05 16:56:41.7242|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Unable to cast object of type 'Proxy<SecurityAppDataAccess.Interface.IApplication_SecurityAppDataAccess_Version=1.0.0.0_Culture=neutral_PublicKeyToken=null>' to type 'SecurityAppDataAccess.Model.Application'.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-04-05 16:56:51.5134|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"applicationEntity":{"IdApplication":0,"Description":"test","CreateDateTime":"\/Date(1490076000000)\/","Status":false,"Roles":null}}]}
+
+2017-04-05 16:57:42.9215|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : 
+
+2017-04-05 16:57:42.9215|ERROR|SecurityAppApi.Helpers.NLogger|Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Unable to cast object of type 'Proxy<SecurityAppDataAccess.Interface.IApplication_SecurityAppDataAccess_Version=1.0.0.0_Culture=neutral_PublicKeyToken=null>' to type 'SecurityAppDataAccess.Model.Application'.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-04-05 16:59:40.6896|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 17:00:13.3558|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 17:00:31.7891|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Post
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"applicationEntity":{"IdApplication":0,"Description":"test","CreateDateTime":"\/Date(1490076000000)\/","Status":false,"Roles":null}}]}
+
+2017-04-05 17:00:58.1847|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 17:01:06.9638|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"applicationEntity":{"IdApplication":2,"Description":null,"CreateDateTime":"\/Date(-62135575200000)\/","Status":true,"Roles":null}}]}
+
+2017-04-05 17:01:09.1537|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.ApplicationController
+Action : Put
+Action Parameters : 
+
+2017-04-05 17:01:09.4629|ERROR|SecurityAppApi.Helpers.NLogger|Method: PUT
+URL: http://localhost/SecurityAppApi/Api/Application
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Error Message : Error Property Name Description : Error Message: The Description field is required.
+Error Inner Exception : 
+Action Parameters : 
+
+2017-04-05 17:01:23.1349|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 17:01:25.8730|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User?userId=13
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : GetToken
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"userId":13}]}
+
+2017-04-05 17:01:33.4745|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2017-04-05 17:01:35.1966|INFO|SecurityAppApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost/SecurityAppApi/Api/User/
+Token: 6434da9e-e8d4-4206-80a6-b7bdcd1dca65
+Controller : SecurityAppApi.Controllers.UserController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

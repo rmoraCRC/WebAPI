@@ -32,7 +32,7 @@ namespace SecurityAppApi.Controllers
 
         private HttpResponseMessage GetAuthToken(int userId)
         {
-            var token = TokenBusiness.GetNewToken().GenerateToken(userId);
+            var token = TokenBusinessObject.GetNewToken().GenerateToken(userId);
             var response = Request.CreateResponse(HttpStatusCode.OK, "Authorized");
             response.Headers.Add("Token", token.AuthToken);
             response.Headers.Add("TokenExpiry", ConfigurationManager.AppSettings["AuthTokenExpiry"]);

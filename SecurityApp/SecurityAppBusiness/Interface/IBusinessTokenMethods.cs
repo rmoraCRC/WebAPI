@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using SecurityAppBusiness.Entity;
+﻿using System.Linq;
 
 namespace SecurityAppBusiness.Interface
 {

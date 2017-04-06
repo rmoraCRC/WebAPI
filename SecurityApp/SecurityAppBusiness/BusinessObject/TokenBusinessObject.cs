@@ -1,20 +1,18 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
 using AutoMapper;
-using SecurityAppBusiness.Entity;
 using SecurityAppBusiness.Interface;
 using SecurityAppDataAccess.Interface;
 using SecurityAppDataAccess.Model;
 
 namespace SecurityAppBusiness.BusinessObject
 {
-    public class TokenBusiness : IBusinessTokenMethods
+    public class TokenBusinessObject : IBusinessTokenMethods
     {
         private static IBusinessTokenMethods _tokenInstance;
-        private TokenBusiness()
+        private TokenBusinessObject()
         {
            
         }
@@ -30,7 +28,7 @@ namespace SecurityAppBusiness.BusinessObject
         public static IBusinessTokenMethods GetNewToken()
         {
             MapperConfiguration();
-            return _tokenInstance ?? (_tokenInstance = new TokenBusiness());
+            return _tokenInstance ?? (_tokenInstance = new TokenBusinessObject());
         }
         public ITokenEntity GenerateToken(int userId)
         {

@@ -2,22 +2,21 @@
 using System.Collections.Generic;
 using System.Linq;
 using AutoMapper;
-using SecurityAppBusiness.Abstract;
 using SecurityAppBusiness.Interface;
 using SecurityAppDataAccess.Interface;
 using SecurityAppDataAccess.Model;
 
 namespace SecurityAppBusiness.BusinessObject
 {
-    public class UserBusiness : IUserBusiness
+    public class UserBusinessObject : IUserBusinessServices
     {
-        private static IUserBusiness _userInstance;
-        private UserBusiness()
+        private static IUserBusinessServices _userInstance;
+        private UserBusinessObject()
         {
-          
+            
         }
 
-        private static void MapperConfiguration()
+        public void MapperConfiguration()
         {
             Mapper.Initialize(cfg =>
             {
@@ -26,10 +25,19 @@ namespace SecurityAppBusiness.BusinessObject
             });
         }
 
-        public static IUserBusiness GetNewUser()
+        public static void MapperConfigurationapp()
         {
-            MapperConfiguration();
-            return _userInstance ?? (_userInstance = new UserBusiness());
+            Mapper.Initialize(cfg =>
+            {
+                cfg.CreateMap<User, IUserEntity>();
+                cfg.CreateMap<IUserEntity, User>();
+            });
+        }
+
+        public static IUserBusinessServices GetNewUser()
+        {
+            MapperConfigurationapp();
+            return _userInstance ?? (_userInstance = new UserBusinessObject());
         }
         public IQueryable<IUserEntity> GetAll()
         {

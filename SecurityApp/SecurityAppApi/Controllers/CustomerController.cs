@@ -19,7 +19,7 @@ namespace SecurityAppApi.Controllers
     {
         public HttpResponseMessage Get()
         {
-            var customer = CustomerBusiness.GetNewCustomer();
+            var customer = CustomerBusinessObject.GetNewCustomer();
             var customerEntities = customer.GetAll();
             if (customerEntities.Any())
                 return Request.CreateResponse(HttpStatusCode.OK, customerEntities);
@@ -28,7 +28,7 @@ namespace SecurityAppApi.Controllers
 
         public HttpResponseMessage Get(int id)
         {
-            var customerBusinesses = CustomerBusiness.GetNewCustomer().GetById(id);
+            var customerBusinesses = CustomerBusinessObject.GetNewCustomer().GetById(id);
 
             if (customerBusinesses.Equals(null))
                 throw new ApiDataException(1000, "Customer not found", HttpStatusCode.NotFound);
@@ -37,19 +37,19 @@ namespace SecurityAppApi.Controllers
 
         public IHttpActionResult Post(CustomerEntity customerEntity)
         {
-            CustomerBusiness.GetNewCustomer().Save(customerEntity);
+            CustomerBusinessObject.GetNewCustomer().Save(customerEntity);
             return Ok();
         }
 
         public IHttpActionResult Put(CustomerEntity customerEntity)
         {
-            CustomerBusiness.GetNewCustomer().Update(customerEntity);
+            CustomerBusinessObject.GetNewCustomer().Update(customerEntity);
             return Ok();
         }
 
         public IHttpActionResult Delete(CustomerEntity customerEntity)
         {
-            CustomerBusiness.GetNewCustomer().Delete(customerEntity);
+            CustomerBusinessObject.GetNewCustomer().Delete(customerEntity);
             return Ok();
         }
     }

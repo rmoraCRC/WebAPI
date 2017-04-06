@@ -2,17 +2,20 @@
 using System.Collections.Generic;
 using System.Linq;
 using AutoMapper;
-using SecurityAppBusiness.Abstract;
 using SecurityAppBusiness.Interface;
 using SecurityAppDataAccess.Interface;
 using SecurityAppDataAccess.Model;
 
 namespace SecurityAppBusiness.BusinessObject
 {
-    public class CustomerBusiness : ICustomerBusiness
+    public class CustomerBusinessObject : ICustomerBusinessServices
     {
-        private static ICustomerBusiness _customerInstance;
-        private CustomerBusiness()
+        private static ICustomerBusinessServices _customerInstance;
+        private CustomerBusinessObject()
+        {
+
+        }
+        public void MapperConfiguration()
         {
             Mapper.Initialize(cfg =>
             {
@@ -20,9 +23,9 @@ namespace SecurityAppBusiness.BusinessObject
                 cfg.CreateMap<ICustomerEntity, Customer>();
             });
         }
-        public static ICustomerBusiness GetNewCustomer()
+        public static ICustomerBusinessServices GetNewCustomer()
         {
-            return _customerInstance ?? (_customerInstance = new CustomerBusiness());
+            return _customerInstance ?? (_customerInstance = new CustomerBusinessObject());
         }
         public void Save(ICustomerEntity customerEntity)
         {
@@ -59,6 +62,9 @@ namespace SecurityAppBusiness.BusinessObject
             return Mapper.Map<ICustomer, ICustomerEntity>(findedCustomer);
 
         }
+
+
+
         public void FieldsValidation()
         {
             throw new NotImplementedException();

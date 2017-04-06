@@ -4,7 +4,7 @@ using SecurityAppDataAccess.Model;
 
 namespace SecurityAppDataAccess.Interface
 {
-    public interface IUser : IDataAccessMethods<IUser>
+    public interface IUser 
     {
         int IdUser { get; set; }
         string Name { get; set; }
@@ -17,6 +17,5 @@ namespace SecurityAppDataAccess.Interface
         string Password { get; set; }
         DateTime CreateDateTime { get; set; }
         ICollection<Role> Roles { get; set; }
-        int Authenticate(string userName, string password);
     }
 }
